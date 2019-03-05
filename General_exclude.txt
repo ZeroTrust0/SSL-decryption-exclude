@@ -1,0 +1,7 @@
+live-bauerno.sharp-stream.com
+*.aperture-eu.paloaltonetworks.com
+*.dropbox.com
+*.sonos.com
+sonos.com
+photoservice.vismaonline.com
+sip.bizskype.cloud
