@@ -3,5 +3,3 @@ live-bauerno.sharp-stream.com
 *.dropbox.com
 *.sonos.com
 sonos.com
-photoservice.vismaonline.com
-sip.bizskype.cloud
