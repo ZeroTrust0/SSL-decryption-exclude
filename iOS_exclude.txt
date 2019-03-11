@@ -36,6 +36,7 @@ myc-profile.bmwgroup.com
 ssl.fixitonline.no
 apifront.prod.minbank.tech-03.net
 version.hybrid.cc.api.here.com
+www.cdn.tv2.no
 
 #Snapchat
 cf-st.sc-cdn.net
