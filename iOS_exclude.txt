@@ -40,6 +40,7 @@ www.cdn.tv2.no
 ra-api.fibaro.com
 *.ls.apple.com
 mzuserxp.itunes.apple.com
+*.cxense.com
 
 #Snapchat
 cf-st.sc-cdn.net
