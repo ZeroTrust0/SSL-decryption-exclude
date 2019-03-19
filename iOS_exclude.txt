@@ -26,6 +26,9 @@ appsgw.finn.no
 apps.finn.no
 outlook.office365.com
 mesu.apple.com
+xp-cdn.apple.com
+*.ls.apple.com
+mzuserxp.itunes.apple.com
 gate.hockeyapp.net
 e.crashlytics.com
 *.amazonaws.com
@@ -38,8 +41,6 @@ apifront.prod.minbank.tech-03.net
 version.hybrid.cc.api.here.com
 www.cdn.tv2.no
 ra-api.fibaro.com
-*.ls.apple.com
-mzuserxp.itunes.apple.com
 *.cxense.com
 
 #Snapchat
