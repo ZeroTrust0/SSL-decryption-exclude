@@ -43,6 +43,7 @@ www.cdn.tv2.no
 ra-api.fibaro.com
 *.cxense.com
 gsp9-ssl.apple.com
+dtm-psg.rovca.eu
 
 #Snapchat
 cf-st.sc-cdn.net
