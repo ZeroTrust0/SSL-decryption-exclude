@@ -1,3 +1,4 @@
 gsas.apple.com
 gsps.apple.com
 go.paloaltonetworks.com
+assets.adobedtm.com
