@@ -4,4 +4,4 @@ www.wireshark.org
 *.cloudfront.net
 *.adobe.com
 *.xboxlive.com
-*.app.box.com
+*.box.com
