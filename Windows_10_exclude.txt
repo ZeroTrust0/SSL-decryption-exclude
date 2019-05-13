@@ -9,3 +9,4 @@ www.wireshark.org
 *.delivery.mp.microsoft.com
 *.big.telemetry.microsoft.com
 *.vo.msecnd.net
+licensing.md.mp.microsoft.com
