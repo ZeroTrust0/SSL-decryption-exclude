@@ -5,3 +5,4 @@ www.wireshark.org
 *.adobe.com
 *.xboxlive.com
 *.box.com
+*.do.dsp.mp.microsoft.com
