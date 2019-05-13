@@ -6,3 +6,5 @@ www.wireshark.org
 *.xboxlive.com
 *.box.com
 *.do.dsp.mp.microsoft.com
+*.delivery.mp.microsoft.com
+*.big.telemetry.microsoft.com
