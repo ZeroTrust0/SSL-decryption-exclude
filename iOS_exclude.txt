@@ -44,7 +44,7 @@ ra-api.fibaro.com
 *.cxense.com
 gsp9-ssl.apple.com
 dtm-psg.rovca.eu
-c.strava.com
+#c.strava.com
 cdn-1.strava.com
 analytics.strava.com
 
