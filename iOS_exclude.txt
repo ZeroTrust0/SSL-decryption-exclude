@@ -46,6 +46,7 @@ gsp9-ssl.apple.com
 dtm-psg.rovca.eu
 c.strava.com
 cdn-1.strava.com
+analytics.strava.com
 
 #Snapchat
 cf-st.sc-cdn.net
