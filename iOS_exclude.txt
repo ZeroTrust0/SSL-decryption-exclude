@@ -47,6 +47,7 @@ www.strava.com
 #c.strava.com
 cdn-1.strava.com
 #analytics.strava.com
+dealer.spotify.com
 
 #Snapchat
 cf-st.sc-cdn.net
