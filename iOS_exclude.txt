@@ -15,7 +15,6 @@ graph.facebook.com
 storage.googleapis.com
 system-api.sonos.com
 www.feelinsonice.com
-www.strava.com
 gcs.sc-cdn.net
 arlo.netgear.com
 www.linkedin.com
@@ -44,6 +43,7 @@ ra-api.fibaro.com
 *.cxense.com
 gsp9-ssl.apple.com
 dtm-psg.rovca.eu
+www.strava.com
 #c.strava.com
 cdn-1.strava.com
 #analytics.strava.com
