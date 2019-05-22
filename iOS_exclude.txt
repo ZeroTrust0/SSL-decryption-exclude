@@ -45,6 +45,7 @@ ra-api.fibaro.com
 gsp9-ssl.apple.com
 dtm-psg.rovca.eu
 c.strava.com
+cdn-1.strava.com
 
 #Snapchat
 cf-st.sc-cdn.net
