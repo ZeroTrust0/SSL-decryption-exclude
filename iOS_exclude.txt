@@ -17,6 +17,7 @@ system-api.sonos.com
 www.feelinsonice.com
 gcs.sc-cdn.net
 arlo.netgear.com
+my.arlo.com
 www.linkedin.com
 svcs.ebay.com
 apisd.ebay.com
