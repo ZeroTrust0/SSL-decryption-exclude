@@ -54,3 +54,8 @@ dealer.spotify.com
 cf-st.sc-cdn.net
 s.sc-jpl.com
 gtq.sct.sc-prod.net
+
+#DNB
+play.googleapis.com
+settings.crashlytics.com
+app-measurement.com
