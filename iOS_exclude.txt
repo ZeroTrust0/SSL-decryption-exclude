@@ -59,3 +59,7 @@ gtq.sct.sc-prod.net
 #play.googleapis.com
 #settings.crashlytics.com
 app-measurement.com
+
+#20190813
+eu.api.amazonvideo.com
+atv-ext-eu.amazon.com
