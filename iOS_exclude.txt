@@ -63,3 +63,4 @@ app-measurement.com
 #20190813
 eu.api.amazonvideo.com
 atv-ext-eu.amazon.com
+msh.amazon.co.uk
