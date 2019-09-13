@@ -64,3 +64,6 @@ app-measurement.com
 eu.api.amazonvideo.com
 atv-ext-eu.amazon.com
 msh.amazon.co.uk
+
+#20190913 Arlo
+ocapi.arlo.com
