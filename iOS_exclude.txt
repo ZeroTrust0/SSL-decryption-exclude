@@ -67,3 +67,7 @@ msh.amazon.co.uk
 
 #20190913 Arlo
 ocapi.arlo.com
+
+#20190922 Apple update
+xp.apple.com
+gdmf.apple.com
