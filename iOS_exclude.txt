@@ -77,3 +77,4 @@ gdmf.apple.com
 
 #20191025 Zwift
 us-or-rly101.zwift.com
+secure.zwift.com
