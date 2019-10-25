@@ -75,6 +75,6 @@ gdmf.apple.com
 #20191009 Telegram
 149.154.167.91
 
-#20191025 Zwift
+#20191025 Zwift app
 us-or-rly101.zwift.com
 secure.zwift.com
