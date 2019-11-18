@@ -5,3 +5,4 @@ assets.adobedtm.com
 
 #2019118
 swscan.apple.com
+swdist.apple.com
