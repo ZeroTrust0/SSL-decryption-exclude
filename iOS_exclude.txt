@@ -37,7 +37,7 @@ events.mapbox.com
 api2.branch.io
 launches.appsflyer.com
 sessions.bugsnag.com
-
+*.cloudfront.net
 
 #Slack
 slack.com
@@ -72,6 +72,7 @@ i.instagram.com
 www.facebook.com
 rupload.facebook.com 
 web.facebook.com
+graph.facebook.com
 
 #Finn
 #api.finn.no
@@ -84,6 +85,7 @@ cdn-1.strava.com
 analytics.strava.com
 tracing-collector.strava.com
 c.strava.com
+dorado.strava.com
 
 #Snapchat
 #cf-st.sc-cdn.net
