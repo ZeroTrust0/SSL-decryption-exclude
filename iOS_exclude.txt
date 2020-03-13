@@ -8,7 +8,7 @@
 #system-api.sonos.com
 #www.feelinsonice.com
 #gcs.sc-cdn.net
-#www.linkedin.com
+www.linkedin.com
 #svcs.ebay.com
 #apisd.ebay.com
 #outlook.office365.com
@@ -27,6 +27,10 @@
 #*.cxense.com
 #dtm-psg.rovca.eu
 #dealer.spotify.com
+radar.cedexis.com
+s2s.singular.net
+media-exp1.licdn.com
+safebrowsing.googleapis.com
 
 #Instagram
 graph.instagram.com
@@ -83,6 +87,7 @@ usc.adserver.snapads.com
 #gsp9-ssl.apple.com
 *.searn.icloud-content.com
 init.push.apple.com
+gs-loc.apple.com
 
 #20190922 Apple update
 #xp.apple.com
