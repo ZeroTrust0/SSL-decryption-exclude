@@ -28,6 +28,10 @@
 #dtm-psg.rovca.eu
 #dealer.spotify.com
 
+#Instagram
+graph.instagram.com
+i.instagram.com
+
 #Facebook
 #*.facebook.com
 *.fna.fbcdn.net
