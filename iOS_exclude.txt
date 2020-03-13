@@ -1,11 +1,11 @@
 #*.acompli.net
 #*.duosecurity.com
 #api.twitter.com
-#api.vipps.no
-#app.asana.com
-#b2vapi.bmwgroup.com
+api.vipps.no
+app.asana.com
+b2vapi.bmwgroup.com
 #storage.googleapis.com
-#system-api.sonos.com
+system-api.sonos.com
 #www.feelinsonice.com
 #gcs.sc-cdn.net
 www.linkedin.com
@@ -71,6 +71,14 @@ ps.eyeota.net
 uipglob.semasio.net
 idsync.rlcdn.com
 pixel.advertising.com
+app-measurement.com
+js.hsleadflows.net
+app.hubspot.com
+cdn2.hubspot.net
+
+#Microsoft
+browser.pipe.aria.microsoft.com
+outlook.office.com
 
 #Slack
 slack.com
@@ -86,6 +94,7 @@ ssl.google-analytics.com
 firebaselogging-pa.googleapis.c
 oauthaccountmanager.googleapis.
 www.googleadservices.com
+fcmtoken.googleapis.com
 
 #NRK
 fil.nrk.no
