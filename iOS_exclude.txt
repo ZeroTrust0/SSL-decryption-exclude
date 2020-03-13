@@ -40,6 +40,8 @@ sessions.bugsnag.com
 *.cloudfront.net
 engine.adzerk.net
 in.appcenter.ms
+e.crashlytics.com
+reports.crashlytics.com
 
 #Slack
 slack.com
