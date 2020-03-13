@@ -75,7 +75,7 @@ app-measurement.com
 js.hsleadflows.net
 app.hubspot.com
 cdn2.hubspot.net
-eq i.scdn.co
+i.scdn.co
 textsecure-service.whispersystems.org
 
 #Microsoft
