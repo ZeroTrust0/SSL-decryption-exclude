@@ -1,6 +1,5 @@
 #*.acompli.net
 #*.duosecurity.com
-#*.snapchat.com
 #api.twitter.com
 #api.vipps.no
 #app.asana.com
@@ -30,13 +29,15 @@
 #dealer.spotify.com
 
 #Facebook
-*.facebook.com
+#*.facebook.com
 *.fna.fbcdn.net
 #*.xx.fbcdn.net
 #0-edge-chat.facebook.com
 #api.facebook.com
 #edge-mqtt.facebook.com
 #graph.facebook.com
+www.facebook.com
+rupload.facebook.com 
 
 #Finn
 #api.finn.no
@@ -51,6 +52,8 @@
 #cf-st.sc-cdn.net
 #s.sc-jpl.com
 #gtq.sct.sc-prod.net
+#*.snapchat.com
+euw.adserver.snapads.com
 
 #DNB
 #app-measurement.com
@@ -84,3 +87,9 @@ init.push.apple.com
 #20191025 Zwift app
 #us-or-rly101.zwift.com
 #secure.zwift.com
+
+#???
+loca.sc-jpl.com
+cf-st.sc-cdn.net
+gcs.sc-cdn.net
+bolt-gcdn.sc-cdn.net
