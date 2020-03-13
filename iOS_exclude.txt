@@ -75,6 +75,7 @@ app-measurement.com
 js.hsleadflows.net
 app.hubspot.com
 cdn2.hubspot.net
+eq i.scdn.co
 
 #Microsoft
 browser.pipe.aria.microsoft.com
@@ -164,6 +165,7 @@ usc.adserver.snapads.com
 init.push.apple.com
 gs-loc.apple.com
 configuration.apple.com
+gsp10-ssl.apple.com
 
 #20190922 Apple update
 #xp.apple.com
