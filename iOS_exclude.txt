@@ -118,6 +118,8 @@ www.facebook.com
 rupload.facebook.com 
 web.facebook.com
 graph.facebook.com
+scontent.xx.fbcdn.net
+video.xx.fbcdn.net
 
 #Finn
 api.finn.no
