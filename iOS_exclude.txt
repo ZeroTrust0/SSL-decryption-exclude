@@ -80,6 +80,7 @@ graph.facebook.com
 #api.finn.no
 #appsgw.finn.no
 apps.finn.no
+images.finncdn.no
 
 #Strava
 #www.strava.com
