@@ -38,6 +38,7 @@ api2.branch.io
 launches.appsflyer.com
 sessions.bugsnag.com
 *.cloudfront.net
+engine.adzerk.net
 
 #Slack
 slack.com
@@ -52,6 +53,7 @@ www.googleapis.com
 ssl.google-analytics.com
 firebaselogging-pa.googleapis.c
 oauthaccountmanager.googleapis.
+www.googleadservices.com
 
 #NRK
 fil.nrk.no
