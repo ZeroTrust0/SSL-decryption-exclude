@@ -36,6 +36,8 @@ settings.crashlytics.com
 events.mapbox.com
 api2.branch.io
 launches.appsflyer.com
+sessions.bugsnag.com
+
 
 #Slack
 slack.com
@@ -49,6 +51,7 @@ safebrowsing.googleapis.com
 www.googleapis.com
 ssl.google-analytics.com
 firebaselogging-pa.googleapis.c
+oauthaccountmanager.googleapis.
 
 #NRK
 fil.nrk.no
