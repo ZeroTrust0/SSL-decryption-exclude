@@ -39,6 +39,7 @@ launches.appsflyer.com
 sessions.bugsnag.com
 *.cloudfront.net
 engine.adzerk.net
+in.appcenter.ms
 
 #Slack
 slack.com
@@ -77,10 +78,12 @@ web.facebook.com
 graph.facebook.com
 
 #Finn
-#api.finn.no
-#appsgw.finn.no
+api.finn.no
 apps.finn.no
 images.finncdn.no
+appsgw.finn.no
+collector.schibsted.io
+www.finn.no
 
 #Strava
 #www.strava.com
