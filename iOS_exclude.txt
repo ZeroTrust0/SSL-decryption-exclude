@@ -72,6 +72,7 @@
 #mzuserxp.itunes.apple.com
 #gsp9-ssl.apple.com
 *.searn.icloud-content.com
+init.push.apple.com
 
 #20190922 Apple update
 #xp.apple.com
