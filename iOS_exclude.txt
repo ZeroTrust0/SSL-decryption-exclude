@@ -1,17 +1,10 @@
 #*.acompli.net
 #*.duosecurity.com
-#*.facebook.com
-#*.fna.fbcdn.net
 #*.snapchat.com
-#*.xx.fbcdn.net
-#0-edge-chat.facebook.com
-#api.facebook.com
 #api.twitter.com
 #api.vipps.no
 #app.asana.com
 #b2vapi.bmwgroup.com
-#edge-mqtt.facebook.com
-#graph.facebook.com
 #storage.googleapis.com
 #system-api.sonos.com
 #www.feelinsonice.com
@@ -35,6 +28,15 @@
 #*.cxense.com
 #dtm-psg.rovca.eu
 #dealer.spotify.com
+
+#Facebook
+#*.facebook.com
+*.fna.fbcdn.net
+#*.xx.fbcdn.net
+#0-edge-chat.facebook.com
+#api.facebook.com
+#edge-mqtt.facebook.com
+#graph.facebook.com
 
 #Finn
 #api.finn.no
