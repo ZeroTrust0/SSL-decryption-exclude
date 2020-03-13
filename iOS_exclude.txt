@@ -71,6 +71,7 @@ i.instagram.com
 #graph.facebook.com
 www.facebook.com
 rupload.facebook.com 
+web.facebook.com
 
 #Finn
 #api.finn.no
