@@ -31,6 +31,14 @@ radar.cedexis.com
 s2s.singular.net
 media-exp1.licdn.com
 safebrowsing.googleapis.com
+sb.scorecardresearch.com
+www.yr.no
+firebaseremoteconfig.googleapis
+settings.crashlytics.com
+
+#NRK
+fil.nrk.no
+ssl-nrk.tns-cs.net
 
 #Instagram
 graph.instagram.com
