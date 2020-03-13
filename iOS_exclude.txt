@@ -25,10 +25,6 @@ api.finn.no
 appsgw.finn.no
 apps.finn.no
 outlook.office365.com
-mesu.apple.com
-xp-cdn.apple.com
-*.ls.apple.com
-mzuserxp.itunes.apple.com
 gate.hockeyapp.net
 e.crashlytics.com
 *.amazonaws.com
@@ -42,7 +38,6 @@ version.hybrid.cc.api.here.com
 www.cdn.tv2.no
 ra-api.fibaro.com
 *.cxense.com
-gsp9-ssl.apple.com
 dtm-psg.rovca.eu
 www.strava.com
 #c.strava.com
@@ -67,6 +62,14 @@ msh.amazon.co.uk
 
 #20190913 Arlo
 ocapi.arlo.com
+
+#Apple
+mesu.apple.com
+xp-cdn.apple.com
+*.ls.apple.com
+mzuserxp.itunes.apple.com
+gsp9-ssl.apple.com
+*.apple.com
 
 #20190922 Apple update
 xp.apple.com
