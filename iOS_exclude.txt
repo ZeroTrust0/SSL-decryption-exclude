@@ -169,6 +169,7 @@ init.push.apple.com
 gs-loc.apple.com
 configuration.apple.com
 gsp10-ssl.apple.com
+api-glb-sto.smoot.apple.com
 
 #20190922 Apple update
 #xp.apple.com
