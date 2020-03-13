@@ -33,6 +33,14 @@ media-exp1.licdn.com
 sb.scorecardresearch.com
 www.yr.no
 settings.crashlytics.com
+events.mapbox.com
+api2.branch.io
+launches.appsflyer.com
+
+#Slack
+slack.com
+edgeapi.slack.com
+slackb.com
 
 #Google
 play.googleapis.com
@@ -68,9 +76,10 @@ apps.finn.no
 
 #Strava
 #www.strava.com
-#cdn-1.strava.com
+cdn-1.strava.com
 analytics.strava.com
 tracing-collector.strava.com
+c.strava.com
 
 #Snapchat
 #cf-st.sc-cdn.net
