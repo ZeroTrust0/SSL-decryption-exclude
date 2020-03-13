@@ -54,6 +54,7 @@ rupload.facebook.com
 #gtq.sct.sc-prod.net
 #*.snapchat.com
 euw.adserver.snapads.com
+usc.adserver.snapads.com
 
 #DNB
 #app-measurement.com
@@ -93,3 +94,4 @@ loca.sc-jpl.com
 cf-st.sc-cdn.net
 gcs.sc-cdn.net
 bolt-gcdn.sc-cdn.net
+gtq.sct.sc-prod.net
