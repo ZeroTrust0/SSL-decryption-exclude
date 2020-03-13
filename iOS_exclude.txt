@@ -112,7 +112,7 @@ i.instagram.com
 #*.xx.fbcdn.net
 #0-edge-chat.facebook.com
 #api.facebook.com
-#edge-mqtt.facebook.com
+edge-mqtt.facebook.com
 #graph.facebook.com
 www.facebook.com
 rupload.facebook.com 
