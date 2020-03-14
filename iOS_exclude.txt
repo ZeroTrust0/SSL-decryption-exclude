@@ -78,6 +78,12 @@ cdn2.hubspot.net
 i.scdn.co
 textsecure-service.whispersystems.org
 identity.paloaltonetworks.com
+adsby.bidtheatre.com
+ssl-vgstream.tns-cs.net
+redutv-api.vg.no
+ad.doubleclick.net
+www.tripadvisor.com
+advertisement.vg.no
 
 #Microsoft
 browser.pipe.aria.microsoft.com
@@ -121,6 +127,8 @@ web.facebook.com
 graph.facebook.com
 scontent.xx.fbcdn.net
 video.xx.fbcdn.net
+m.facebook.com
+facebook.com
 
 #Finn
 api.finn.no
@@ -129,6 +137,7 @@ images.finncdn.no
 appsgw.finn.no
 collector.schibsted.io
 www.finn.no
+user-permissions.smp.schibsted.
 
 #Strava
 #www.strava.com
@@ -171,6 +180,8 @@ gs-loc.apple.com
 configuration.apple.com
 gsp10-ssl.apple.com
 api-glb-sto.smoot.apple.com
+gateway-asset.icloud-content.com
+
 
 #20190922 Apple update
 #xp.apple.com
