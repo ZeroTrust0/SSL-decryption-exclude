@@ -91,6 +91,7 @@ mobile.twitter.com
 www.twitter.com
 spotify.com
 www.spotify.com
+dms.licdn.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
@@ -103,12 +104,11 @@ slackb.com
 
 #Google
 play.googleapis.com
-firebaseremoteconfig.googleapis
 safebrowsing.googleapis.com
 www.googleapis.com
 ssl.google-analytics.com
-firebaselogging-pa.googleapis.c
-oauthaccountmanager.googleapis.
+firebaselogging-pa.googleapis.com
+oauthaccountmanager.googleapis.com
 www.googleadservices.com
 fcmtoken.googleapis.com
 
@@ -144,7 +144,7 @@ images.finncdn.no
 appsgw.finn.no
 collector.schibsted.io
 www.finn.no
-user-permissions.smp.schibsted.
+user-permissions.smp.schibsted.com
 
 #Strava
 #www.strava.com
