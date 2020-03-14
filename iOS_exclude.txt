@@ -84,6 +84,13 @@ redutv-api.vg.no
 ad.doubleclick.net
 www.tripadvisor.com
 advertisement.vg.no
+link.ice.no
+app.ice.no
+m.twitter.com
+mobile.twitter.com
+www.twitter.com
+spotify.com
+www.spotify.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
@@ -181,7 +188,7 @@ configuration.apple.com
 gsp10-ssl.apple.com
 api-glb-sto.smoot.apple.com
 gateway-asset.icloud-content.com
-
+iphone-ld.apple.com
 
 #20190922 Apple update
 #xp.apple.com
