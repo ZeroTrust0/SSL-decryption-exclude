@@ -77,6 +77,7 @@ app.hubspot.com
 cdn2.hubspot.net
 i.scdn.co
 textsecure-service.whispersystems.org
+identity.paloaltonetworks.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
