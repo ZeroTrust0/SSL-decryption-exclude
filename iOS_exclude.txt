@@ -1,6 +1,5 @@
 #*.acompli.net
 #*.duosecurity.com
-#api.twitter.com
 api.vipps.no
 app.asana.com
 b2vapi.bmwgroup.com
@@ -89,9 +88,13 @@ app.ice.no
 m.twitter.com
 mobile.twitter.com
 www.twitter.com
+api.twitter.com
 spotify.com
 www.spotify.com
 dms.licdn.com
+clientservices.googleapis.com
+edge.skype.com
+*.appspot-preview.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
