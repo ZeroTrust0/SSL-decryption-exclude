@@ -95,7 +95,9 @@ dms.licdn.com
 clientservices.googleapis.com
 edge.skype.com
 *.appspot-preview.com
-bed.api.no
+*.api.no
+*.rubiconproject.com
+edge.skype.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
@@ -115,6 +117,8 @@ firebaselogging-pa.googleapis.com
 oauthaccountmanager.googleapis.com
 www.googleadservices.com
 fcmtoken.googleapis.com
+*.storage.googleapis.com
+*.google-analytics.com
 
 #NRK
 fil.nrk.no
@@ -160,6 +164,7 @@ analytics.strava.com
 tracing-collector.strava.com
 c.strava.com
 dorado.strava.com
+omt.garmin.com
 
 #Snapchat
 #cf-st.sc-cdn.net
