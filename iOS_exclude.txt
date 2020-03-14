@@ -95,6 +95,7 @@ dms.licdn.com
 clientservices.googleapis.com
 edge.skype.com
 *.appspot-preview.com
+bed.api.no
 
 #Microsoft
 browser.pipe.aria.microsoft.com
@@ -124,7 +125,7 @@ graph.instagram.com
 i.instagram.com
 
 #Facebook
-#*.facebook.com
+*.facebook.com
 *.fna.fbcdn.net
 #*.xx.fbcdn.net
 #0-edge-chat.facebook.com
@@ -139,6 +140,9 @@ scontent.xx.fbcdn.net
 video.xx.fbcdn.net
 m.facebook.com
 facebook.com
+lithium.facebook.com
+static.xx.fbcdn.net
+platform-lookaside.fbsbx.com
 
 #Finn
 api.finn.no
