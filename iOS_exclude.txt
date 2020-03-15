@@ -103,6 +103,7 @@ ios.prod.ftl.netflix.com
 ichnaea-web.netflix.com
 *.1.oca.nflxvideo.net
 webdir.online.lync.com
+abm.inzynk.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
@@ -207,6 +208,8 @@ gsp10-ssl.apple.com
 api-glb-sto.smoot.apple.com
 gateway-asset.icloud-content.com
 iphone-ld.apple.com
+stocks-sparkline.apple.com
+
 
 #20190922 Apple update
 #xp.apple.com
