@@ -4,7 +4,6 @@ www.wireshark.org
 *.adobe.com
 *.xboxlive.com
 *.box.com
-*.g.doubleclick.net
 cdn.stream.schibsted.media
 
 #VG
@@ -20,6 +19,7 @@ fonts.gstatic.com
 safebrowsing.googleapis.com
 accounts.google.com
 *.storage.googleapis.com
+*.g.doubleclick.net
 
 #Microsoft
 roaming.officeapps.live.com
