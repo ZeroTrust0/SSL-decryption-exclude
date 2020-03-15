@@ -7,10 +7,10 @@ www.wireshark.org
 cdn.stream.schibsted.media
 
 #VG
-direkte.vg.no
-akamai.vgc.no
-api.vg.no
-www.vg.no
+#direkte.vg.no
+#akamai.vgc.no
+#api.vg.no
+#www.vg.no
 
 #Google
 clientservices.googleapis.com
