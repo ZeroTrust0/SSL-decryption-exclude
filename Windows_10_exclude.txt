@@ -14,3 +14,11 @@ safebrowsing.googleapis.com
 accounts.google.com
 *.storage.googleapis.com
 *.g.doubleclick.net
+fcmconnection.googleapis.com
+fonts.gstatic.com
+cdn.stream.schibsted.media
+clientservices.googleapis.com
+tpc.googlesyndication.com
+www.googleapis.com
+direkte.vg.no
+akamai.vgc.no
