@@ -99,6 +99,9 @@ edge.skype.com
 *.rubiconproject.com
 edge.skype.com
 api.cloudflareclient.com
+ios.prod.ftl.netflix.com
+ichnaea-web.netflix.com
+*.1.oca.nflxvideo.net
 
 #Microsoft
 browser.pipe.aria.microsoft.com
