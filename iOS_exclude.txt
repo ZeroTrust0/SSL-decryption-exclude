@@ -102,6 +102,7 @@ api.cloudflareclient.com
 ios.prod.ftl.netflix.com
 ichnaea-web.netflix.com
 *.1.oca.nflxvideo.net
+webdir.online.lync.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
