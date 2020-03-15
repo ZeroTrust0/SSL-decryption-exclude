@@ -123,6 +123,7 @@ www.googleadservices.com
 fcmtoken.googleapis.com
 *.storage.googleapis.com
 *.google-analytics.com
+securepubads.g.doubleclick.net
 
 #NRK
 fil.nrk.no
