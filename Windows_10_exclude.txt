@@ -10,3 +10,7 @@ www.wireshark.org
 *.big.telemetry.microsoft.com
 *.vo.msecnd.net
 licensing.md.mp.microsoft.com
+safebrowsing.googleapis.com
+accounts.google.com
+*.storage.googleapis.com
+*.g.doubleclick.net
