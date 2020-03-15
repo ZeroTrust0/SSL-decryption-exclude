@@ -1,1 +1,12 @@
-#Test
+*.zwift.com
+roaming.officeapps.live.com
+www.wireshark.org
+*.cloudfront.net
+*.adobe.com
+*.xboxlive.com
+*.box.com
+*.do.dsp.mp.microsoft.com
+*.delivery.mp.microsoft.com
+*.big.telemetry.microsoft.com
+*.vo.msecnd.net
+licensing.md.mp.microsoft.com
