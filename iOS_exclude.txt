@@ -104,6 +104,11 @@ ichnaea-web.netflix.com
 *.1.oca.nflxvideo.net
 webdir.online.lync.com
 abm.inzynk.com
+lastpass.com
+public-api.wordpress.com
+apps.wordpress.com
+wordpress.com
+gate.hockeyapp.net
 
 #Microsoft
 browser.pipe.aria.microsoft.com
