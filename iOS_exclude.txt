@@ -1,5 +1,5 @@
 #*.acompli.net
-#*.duosecurity.com
+*.duosecurity.com
 api.vipps.no
 app.asana.com
 b2vapi.bmwgroup.com
