@@ -109,6 +109,7 @@ public-api.wordpress.com
 apps.wordpress.com
 wordpress.com
 gate.hockeyapp.net
+go.microsoft.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
@@ -214,7 +215,7 @@ api-glb-sto.smoot.apple.com
 gateway-asset.icloud-content.com
 iphone-ld.apple.com
 stocks-sparkline.apple.com
-
+sq-device.apple.com
 
 #20190922 Apple update
 #xp.apple.com
