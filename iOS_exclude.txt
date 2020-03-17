@@ -110,6 +110,15 @@ apps.wordpress.com
 wordpress.com
 gate.hockeyapp.net
 go.microsoft.com
+connecttest.garmin.com
+www.instagram.com
+www.messenger.com
+instagram.com
+applink.instagram.com
+slack.onelink.me
+connect.garmin.com
+zoom.us
+messenger.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
@@ -132,6 +141,10 @@ fcmtoken.googleapis.com
 *.storage.googleapis.com
 *.google-analytics.com
 securepubads.g.doubleclick.net
+inbox.google.com
+tpc.googlesyndication.com
+www.google.no
+pagead2.googlesyndication.com
 
 #NRK
 fil.nrk.no
@@ -216,6 +229,7 @@ gateway-asset.icloud-content.com
 iphone-ld.apple.com
 stocks-sparkline.apple.com
 sq-device.apple.com
+guzzoni.apple.com
 
 #20190922 Apple update
 #xp.apple.com
