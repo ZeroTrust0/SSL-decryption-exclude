@@ -16,8 +16,6 @@ www.linkedin.com
 #*.amazonaws.com
 #*.uber.com
 #myc-profile.bmwgroup.com
-#*.instagram.com
-#*.cdninstagram.com
 #ssl.fixitonline.no
 #apifront.prod.minbank.tech-03.net
 #version.hybrid.cc.api.here.com
@@ -153,6 +151,8 @@ ssl-nrk.tns-cs.net
 #Instagram
 graph.instagram.com
 i.instagram.com
+#*.instagram.com
+#*.cdninstagram.com
 
 #Facebook
 *.facebook.com
