@@ -117,6 +117,11 @@ slack.onelink.me
 connect.garmin.com
 zoom.us
 messenger.com
+reddit.com
+www.netflix.com
+partner-links.spotify.com
+digest.dataequipment.no
+msg.netflix.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
