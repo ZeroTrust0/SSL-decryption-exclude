@@ -122,6 +122,7 @@ www.netflix.com
 partner-links.spotify.com
 digest.dataequipment.no
 msg.netflix.com
+www.polarremote.com
 
 #Microsoft
 browser.pipe.aria.microsoft.com
