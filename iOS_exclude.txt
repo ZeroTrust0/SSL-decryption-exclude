@@ -123,6 +123,7 @@ partner-links.spotify.com
 digest.dataequipment.no
 msg.netflix.com
 www.polarremote.com
+duomobile.s3-us-west-1.amazonaw
 
 #Microsoft
 browser.pipe.aria.microsoft.com
