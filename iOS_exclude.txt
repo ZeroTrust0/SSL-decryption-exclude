@@ -159,6 +159,7 @@ securepubads.g.doubleclick.net
 
 inbox.google.com
 www.google.no
+accounts.google.com
 
 tpc.googlesyndication.com
 pagead2.googlesyndication.com
