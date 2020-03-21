@@ -129,6 +129,7 @@ applink.instagram.com
 #LinkedIn
 media-exp1.licdn.com
 www.linkedin.com
+linkedinmobileapp.com
 
 #VG
 advertisement.vg.no
