@@ -98,6 +98,7 @@ mobile.twitter.com
 www.twitter.com
 api.twitter.com
 identity.paloaltonetworks.com
+api.github.com
 
 
 #Ymse Privat
@@ -120,6 +121,10 @@ www.messenger.com
 messenger.com
 instagram.com
 applink.instagram.com
+
+#Segment ?
+*.segment.com
+*.segment.io
 
 #LinkedIn
 media-exp1.licdn.com
@@ -151,7 +156,8 @@ www.googleapis.com
 firebaselogging-pa.googleapis.com
 oauthaccountmanager.googleapis.com
 fcmtoken.googleapis.com
-*.storage.googleapis.com
+*.googleapis.com
+*.google.com
 
 ssl.google-analytics.com
 *.google-analytics.com
@@ -163,6 +169,7 @@ securepubads.g.doubleclick.net
 inbox.google.com
 www.google.no
 accounts.google.com
+
 
 tpc.googlesyndication.com
 pagead2.googlesyndication.com
