@@ -76,7 +76,6 @@ api.cloudflareclient.com
 *.duosecurity.com
 api.vipps.no
 app.asana.com
-www.linkedin.com
 www.yr.no
 settings.crashlytics.com
 launches.appsflyer.com
@@ -121,6 +120,10 @@ www.messenger.com
 messenger.com
 instagram.com
 applink.instagram.com
+
+#LinkedIn
+media-exp1.licdn.com
+www.linkedin.com
 
 #VG
 advertisement.vg.no
