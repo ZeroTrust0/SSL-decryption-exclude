@@ -122,7 +122,7 @@ messenger.com
 instagram.com
 applink.instagram.com
 
-#Segment ?
+#Segment ? Twitter?
 *.segment.com
 *.segment.io
 
