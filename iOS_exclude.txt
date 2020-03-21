@@ -99,7 +99,7 @@ www.twitter.com
 api.twitter.com
 identity.paloaltonetworks.com
 api.github.com
-
+static.cw.newsfront.no
 
 #Ymse Privat
 connect.garmin.com
