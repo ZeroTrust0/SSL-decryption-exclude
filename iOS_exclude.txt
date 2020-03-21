@@ -98,8 +98,8 @@ mobile.twitter.com
 www.twitter.com
 api.twitter.com
 identity.paloaltonetworks.com
-api.github.com
-static.cw.newsfront.no
+#api.github.com
+#*.newsfront.no
 
 #Ymse Privat
 connect.garmin.com
@@ -123,13 +123,13 @@ instagram.com
 applink.instagram.com
 
 #Segment ? Twitter?
-*.segment.com
-*.segment.io
+#*.segment.com
+#*.segment.io
 
 #LinkedIn
 media-exp1.licdn.com
 www.linkedin.com
-linkedinmobileapp.com
+#linkedinmobileapp.com
 
 #VG
 advertisement.vg.no
