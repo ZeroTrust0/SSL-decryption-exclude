@@ -100,6 +100,7 @@ api.twitter.com
 identity.paloaltonetworks.com
 #api.github.com
 #*.newsfront.no
+*.scdn.co
 
 #Ymse Privat
 connect.garmin.com
@@ -184,27 +185,29 @@ ssl-nrk.tns-cs.net
 graph.instagram.com
 i.instagram.com
 #*.instagram.com
-#*.cdninstagram.com
+*.cdninstagram.com
+#scontent-arn2-2.cdninstagram.co
 
 #Facebook
 *.facebook.com
 *.fna.fbcdn.net
-#*.xx.fbcdn.net
+*.xx.fbcdn.net
 #0-edge-chat.facebook.com
 #api.facebook.com
-edge-mqtt.facebook.com
+#edge-mqtt.facebook.com
 #graph.facebook.com
-www.facebook.com
-rupload.facebook.com 
-web.facebook.com
-graph.facebook.com
-scontent.xx.fbcdn.net
-video.xx.fbcdn.net
-m.facebook.com
+#www.facebook.com
+#rupload.facebook.com 
+#web.facebook.com
+#graph.facebook.com
+#scontent.xx.fbcdn.net
+#video.xx.fbcdn.net
+#m.facebook.com
 facebook.com
-lithium.facebook.com
-static.xx.fbcdn.net
+#lithium.facebook.com
+#static.xx.fbcdn.net
 platform-lookaside.fbsbx.com
+#external.xx.fbcdn.net
 
 #Finn
 api.finn.no
@@ -264,6 +267,7 @@ iphone-ld.apple.com
 stocks-sparkline.apple.com
 sq-device.apple.com
 guzzoni.apple.com
+xp.apple.com
 
 #20190922 Apple update
 #xp.apple.com
