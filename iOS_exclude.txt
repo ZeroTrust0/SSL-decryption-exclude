@@ -86,6 +86,8 @@ cdn2.hubspot.net
 digest.dataequipment.no
 slack.onelink.me
 zoom.us
+zoom.com
+logfiles.zoom.us
 reddit.com
 gate.hockeyapp.net
 abm.inzynk.com
