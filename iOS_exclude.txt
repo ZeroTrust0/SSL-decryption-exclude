@@ -144,6 +144,7 @@ go.microsoft.com
 edge.skype.com
 webdir.online.lync.com
 edge.skype.com
+dod.teams.microsoft.us
 
 #Slack
 slack.com
