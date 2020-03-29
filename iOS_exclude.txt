@@ -289,3 +289,6 @@ cf-st.sc-cdn.net
 gcs.sc-cdn.net
 bolt-gcdn.sc-cdn.net
 gtq.sct.sc-prod.net
+
+#Spotify podcast
+i.scdn.co
