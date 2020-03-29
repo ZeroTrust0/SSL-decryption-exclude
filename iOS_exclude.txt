@@ -103,6 +103,8 @@ identity.paloaltonetworks.com
 #api.github.com
 #*.newsfront.no
 *.scdn.co
+id.cloud.fibaro.com
+ra-api.fibaro.com
 
 #Ymse Privat
 connect.garmin.com
