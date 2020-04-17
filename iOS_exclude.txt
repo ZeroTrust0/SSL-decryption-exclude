@@ -273,6 +273,7 @@ stocks-sparkline.apple.com
 sq-device.apple.com
 guzzoni.apple.com
 xp.apple.com
+gsp9-ssl.apple.com
 
 #20190922 Apple update
 #xp.apple.com
