@@ -297,3 +297,6 @@ gtq.sct.sc-prod.net
 
 #Spotify podcast
 i.scdn.co
+
+#Sonos
+*.sonos.radio
