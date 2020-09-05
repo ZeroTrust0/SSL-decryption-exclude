@@ -3,3 +3,6 @@ live-bauerno.sharp-stream.com
 *.dropbox.com
 *.sonos.com
 sonos.com
+
+#Mathilde skoleside
+rapport-dv.uhad.no
