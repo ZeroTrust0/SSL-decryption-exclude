@@ -1,0 +1,5 @@
+#Signal
+textsecure-service.whispersystems.org
+
+#Mathilde Skole
+rapport-dv.uhad.no
