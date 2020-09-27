@@ -302,3 +302,4 @@ i.scdn.co
 *.sonos.radio
 
 www.gsbildeler.no
+bikeshop.no
