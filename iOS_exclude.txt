@@ -306,3 +306,5 @@ bikeshop.no
 
 *.online.lync.com
 nexusrules.officeapps.live.com
+fw.adsafeprotected.com
+smp-cf.vgc.no
