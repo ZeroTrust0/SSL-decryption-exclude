@@ -310,3 +310,8 @@ fw.adsafeprotected.com
 smp-cf.vgc.no
 api-euc1b.smoot.apple.com
 *.tunein.com'
+gsbildeler.no
+jssdk.privacy.schibsted.com
+cdn.sportsnext.schibsted.io
+api.privacy.schibsted.com
+
