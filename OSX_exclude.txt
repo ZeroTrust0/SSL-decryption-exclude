@@ -1,6 +1,7 @@
 gsas.apple.com
 gsps.apple.com
 go.paloaltonetworks.com
+*.traps.paloaltonetworks.com
 assets.adobedtm.com
 
 #2019118
