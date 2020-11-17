@@ -276,6 +276,8 @@ sq-device.apple.com
 guzzoni.apple.com
 xp.apple.com
 gsp9-ssl.apple.com
+*.smoot.apple.com
+
 
 #20190922 Apple update
 #xp.apple.com
@@ -318,4 +320,3 @@ api.privacy.schibsted.com
 www.digi.no
 *.dn.no
 *.singular.net
-api-euc1b.smoot.apple.com
