@@ -5,3 +5,5 @@ textsecure-service.whispersystems.org
 rapport-dv.uhad.no
 
 radarsubmissions.apple.com
+
+fe3cr.delivery.mp.microsoft.com
