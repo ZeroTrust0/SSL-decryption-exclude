@@ -31,6 +31,7 @@ licensing.md.mp.microsoft.com
 *.delivery.mp.microsoft.com
 *.big.telemetry.microsoft.com
 *.vo.msecnd.net
+fe3cr.delivery.mp.microsoft.com
 
 #20201117
 river.data.ea.com
