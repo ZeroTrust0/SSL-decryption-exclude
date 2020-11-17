@@ -320,3 +320,5 @@ api.privacy.schibsted.com
 www.digi.no
 *.dn.no
 *.singular.net
+smp-cf.vgc.no
+jwplayer.map.fastly.net
