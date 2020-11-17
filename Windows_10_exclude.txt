@@ -35,4 +35,7 @@ fe3cr.delivery.mp.microsoft.com
 
 #20201117
 river.data.ea.com
+pin-river.data.ea.com
+pin-em.data.ea.com
 api1.origin.com
+www.intel.com
