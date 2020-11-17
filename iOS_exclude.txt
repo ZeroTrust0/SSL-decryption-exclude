@@ -322,3 +322,7 @@ www.digi.no
 *.singular.net
 smp-cf.vgc.no
 jwplayer.map.fastly.net
+
+#Telenor
+*.demdex.net
+*.tt.omtrdc.net
