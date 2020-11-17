@@ -37,5 +37,6 @@ fe3cr.delivery.mp.microsoft.com
 river.data.ea.com
 pin-river.data.ea.com
 pin-em.data.ea.com
+gosca.ea.com
 api1.origin.com
 www.intel.com
