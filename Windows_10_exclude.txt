@@ -22,6 +22,7 @@ safebrowsing.googleapis.com
 accounts.google.com
 *.storage.googleapis.com
 *.g.doubleclick.net
+drive.google.com
 
 #Microsoft
 roaming.officeapps.live.com
@@ -30,3 +31,7 @@ licensing.md.mp.microsoft.com
 *.delivery.mp.microsoft.com
 *.big.telemetry.microsoft.com
 *.vo.msecnd.net
+
+#20201117
+river.data.ea.com
+api1.origin.com
