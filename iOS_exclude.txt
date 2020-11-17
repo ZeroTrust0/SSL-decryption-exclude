@@ -318,3 +318,4 @@ api.privacy.schibsted.com
 www.digi.no
 *.dn.no
 *.singular.net
+api-euc1b.smoot.apple.com
