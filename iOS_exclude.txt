@@ -326,3 +326,4 @@ jwplayer.map.fastly.net
 #Telenor
 *.demdex.net
 *.tt.omtrdc.net
+*.twitter.com
