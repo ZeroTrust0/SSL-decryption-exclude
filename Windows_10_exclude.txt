@@ -32,6 +32,7 @@ licensing.md.mp.microsoft.com
 *.big.telemetry.microsoft.com
 *.vo.msecnd.net
 #fe3cr.delivery.mp.microsoft.com
+www.microsoft.com
 
 #20201117
 river.data.ea.com
@@ -40,3 +41,4 @@ pin-em.data.ea.com
 gosca.ea.com
 api1.origin.com
 www.intel.com
+mojang.com
