@@ -224,6 +224,7 @@ appsgw.finn.no
 collector.schibsted.io
 www.finn.no
 user-permissions.smp.schibsted.com
+finnno.d3.sc.omtrdc.net
 
 #Strava
 #www.strava.com
