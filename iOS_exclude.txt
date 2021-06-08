@@ -238,6 +238,7 @@ omt.garmin.com
 #s.sc-jpl.com
 #gtq.sct.sc-prod.net
 #*.snapchat.com
+aws.duplex.snapchat.com
 euw.adserver.snapads.com
 usc.adserver.snapads.com
 
