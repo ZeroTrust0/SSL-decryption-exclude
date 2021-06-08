@@ -122,11 +122,9 @@ b2vapi.bmwgroup.com
 myc-profile.bmwgroup.com
 system-api.sonos.com
 connecttest.garmin.com
-www.instagram.com
 www.messenger.com
 messenger.com
-instagram.com
-applink.instagram.com
+
 
 #Segment ? Twitter?
 #*.segment.com
@@ -190,9 +188,12 @@ ssl-nrk.tns-cs.net
 #Instagram
 graph.instagram.com
 i.instagram.com
-#*.instagram.com
 *.cdninstagram.com
-#scontent-arn2-2.cdninstagram.co
+graphql.instagram.com
+www.instagram.com
+instagram.com
+applink.instagram.com
+
 
 #Facebook
 *.facebook.com
