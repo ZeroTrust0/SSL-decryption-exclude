@@ -42,3 +42,6 @@ gosca.ea.com
 api1.origin.com
 www.intel.com
 mojang.com
+
+#20210608
+*.xdr.eu.paloaltonetworks.com
