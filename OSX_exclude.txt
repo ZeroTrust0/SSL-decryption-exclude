@@ -1,12 +1,6 @@
-gsas.apple.com
-gsps.apple.com
+*.apple.com
 go.paloaltonetworks.com
 *.traps.paloaltonetworks.com
 assets.adobedtm.com
-
-#2019118
-swscan.apple.com
-swdist.apple.com
-
-#Mathilde skoleside
-rapport-dv.uhad.no
+*.netflix.com
+*.nflxvideo.net
