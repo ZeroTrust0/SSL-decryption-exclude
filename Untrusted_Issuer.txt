@@ -8,5 +8,5 @@ radarsubmissions.apple.com
 
 fe3cr.delivery.mp.microsoft.com
 
-#chat.signal.org
-#updates2.signal.org
+chat.signal.org
+updates2.signal.org
