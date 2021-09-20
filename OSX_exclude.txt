@@ -5,5 +5,5 @@ assets.adobedtm.com
 *.netflix.com
 *.nflxvideo.net
 
-chat.signal.org
-updates2.signal.org
+#chat.signal.org
+#updates2.signal.org
