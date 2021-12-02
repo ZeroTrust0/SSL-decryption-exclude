@@ -1,4 +1,4 @@
 #Add URLs for test here
-assets.adobedtm.com
-get.adobe.com
-p.typekit.net
+assets.adobedtm.com/
+get.adobe.com/
+p.typekit.net/
