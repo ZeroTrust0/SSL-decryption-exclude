@@ -1,8 +1,5 @@
-live-bauerno.sharp-stream.com
-*.aperture-eu.paloaltonetworks.com
-*.dropbox.com
-*.sonos.com
-sonos.com
-
-#Mathilde skoleside
-rapport-dv.uhad.no
+live-bauerno.sharp-stream.com/
+*.aperture-eu.paloaltonetworks.com/
+*.dropbox.com/
+*.sonos.com/
+sonos.com/
