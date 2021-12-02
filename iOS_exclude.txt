@@ -246,6 +246,7 @@ usc.adserver.snapads.com
 
 #DNB
 #app-measurement.com
+api.ciam.dnb.no
 
 #20190813
 #eu.api.amazonvideo.com
