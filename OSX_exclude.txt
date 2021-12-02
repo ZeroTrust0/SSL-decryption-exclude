@@ -1,9 +1,9 @@
-*.apple.com
-go.paloaltonetworks.com
-*.traps.paloaltonetworks.com
-assets.adobedtm.com
-*.netflix.com
-*.nflxvideo.net
+*.apple.com/
+go.paloaltonetworks.com/
+*.traps.paloaltonetworks.com/
+assets.adobedtm.com/
+*.netflix.com/
+*.nflxvideo.net/
 
-#chat.signal.org
-#updates2.signal.org
+#chat.signal.org/
+#updates2.signal.org/
