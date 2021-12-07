@@ -332,3 +332,6 @@ jwplayer.map.fastly.net/
 *.demdex.net/
 *.tt.omtrdc.net/
 *.twitter.com/
+
+chat.signal.org/
+updates2.signal.org/
