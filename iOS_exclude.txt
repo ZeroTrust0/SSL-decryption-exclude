@@ -336,3 +336,4 @@ jwplayer.map.fastly.net/
 chat.signal.org/
 updates2.signal.org/
 *.whispersystems.org/
+*.signal.org/
