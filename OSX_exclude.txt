@@ -7,3 +7,4 @@ assets.adobedtm.com/
 
 #chat.signal.org/
 #updates2.signal.org/
+*.zwift.com/
