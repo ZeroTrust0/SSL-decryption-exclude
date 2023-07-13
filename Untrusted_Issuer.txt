@@ -4,5 +4,3 @@ textsecure-service.whispersystems.org/
 radarsubmissions.apple.com/
 
 fe3cr.delivery.mp.microsoft.com/
-
-*.signal.org/
