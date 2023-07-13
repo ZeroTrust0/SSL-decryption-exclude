@@ -6,3 +6,4 @@ sonos.com/
 chat.signal.org
 storage.signal.org
 *.signal.org
+login.microsoftonline.com
