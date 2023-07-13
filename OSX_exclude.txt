@@ -8,3 +8,5 @@ assets.adobedtm.com/
 *.zwift.com/
 *.googleapis.com/
 *.facebook.com/
+facebook.com/
+*.fbcdn.net/
