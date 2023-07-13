@@ -3,3 +3,4 @@ live-bauerno.sharp-stream.com/
 *.dropbox.com/
 *.sonos.com/
 sonos.com/
+*.signal.org/
