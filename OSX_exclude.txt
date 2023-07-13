@@ -10,3 +10,4 @@ assets.adobedtm.com/
 *.facebook.com/
 facebook.com/
 *.fbcdn.net/
+chat.signal.org
