@@ -5,6 +5,7 @@ assets.adobedtm.com/
 *.netflix.com/
 *.nflxvideo.net/
 
-#chat.signal.org/
+*.signal.org/
 #updates2.signal.org/
 *.zwift.com/
+*.googleapis.com/
