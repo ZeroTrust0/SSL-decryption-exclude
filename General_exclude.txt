@@ -4,3 +4,5 @@ live-bauerno.sharp-stream.com/
 *.sonos.com/
 sonos.com/
 chat.signal.org
+storage.signal.org
+*.signal.org
