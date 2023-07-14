@@ -2,3 +2,4 @@
 #attachments.office.net/
 
 *.atl-paas.net/
+*.atlassian.net/
