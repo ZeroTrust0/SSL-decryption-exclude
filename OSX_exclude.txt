@@ -27,3 +27,8 @@ outlook.office365.com/
 aadcdn.msftauth.net/
 
 www.dropboxstatic.com/
+
+#*.atl-paas.net/
+#*.atlassian.net/
+#*.atlassian.com/
+*.pndsn.com/
