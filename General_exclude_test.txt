@@ -1,5 +1,6 @@
 #Add URLs for test here
 #attachments.office.net/
 
-*.atl-paas.net/
-*.atlassian.net/
+#*.atl-paas.net/
+#*.atlassian.net/
+*.atlassian.com/
