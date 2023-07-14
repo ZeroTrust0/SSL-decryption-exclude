@@ -18,16 +18,12 @@ chat.signal.org
 #Vedlegg til e-post
 *.office.net/
 attachments.office.net/
-
 *.microsoft.com/
-
 *.officeapps.live.com/
 teams.live.com/
-
 *.office.com/
-
 outlook.com/
-
 outlook.office365.com/
-
 aadcdn.msftauth.net/
+
+www.dropboxstatic.com/
