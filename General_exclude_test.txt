@@ -4,3 +4,6 @@ teams.microsoft.com/
 *.teams.microsoft.com/
 teams.live.com/
 *.events.data.microsoft.com
+outlook.office365.com
+*.office.com
+*.office.net
