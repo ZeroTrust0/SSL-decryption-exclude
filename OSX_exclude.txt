@@ -14,3 +14,6 @@ chat.signal.org
 *.officeapps.live.com/
 *.teams.microsoft.com/
 *.data.microsoft.com/
+outlook.com/
+outlook.office365.com/
+*.office.com/
