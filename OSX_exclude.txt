@@ -14,15 +14,18 @@ chat.signal.org
 
 #Microsoft
 #Vedlegg til e-post
+*.office.net/
 attachments.office.net/
-teams.microsoft.com/
-*.teams.microsoft.com/
+
+*.microsoft.com/
+
+*.officeapps.live.com/
 teams.live.com/
-*.events.data.microsoft.com
-#*.cdn.office.net/
-#*.officeapps.live.com/
-#*.teams.microsoft.com/
-#*.data.microsoft.com/
-#outlook.com/
-#outlook.office365.com/
-#*.office.com/
+
+*.office.com/
+
+outlook.com/
+
+outlook.office365.com/
+
+aadcdn.msftauth.net/
