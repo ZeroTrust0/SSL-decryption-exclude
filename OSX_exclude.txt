@@ -17,6 +17,8 @@ chat.signal.org
 attachments.office.net/
 teams.microsoft.com/
 *.teams.microsoft.com/
+teams.live.com/
+*.events.data.microsoft.com
 #*.cdn.office.net/
 #*.officeapps.live.com/
 #*.teams.microsoft.com/
