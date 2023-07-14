@@ -18,3 +18,4 @@ outlook.com/
 outlook.office365.com/
 *.office.com/
 attachments.office.net/
+*.cdn.office.net/
