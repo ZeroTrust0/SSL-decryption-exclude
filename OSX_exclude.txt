@@ -4,6 +4,8 @@ go.paloaltonetworks.com/
 assets.adobedtm.com/
 *.netflix.com/
 *.nflxvideo.net/
+*.licdn.com/
+*.linkedin.com/
 
 *.zwift.com/
 *.googleapis.com/
