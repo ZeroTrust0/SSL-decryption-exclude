@@ -1,5 +1,5 @@
 #Vedlegg til e-post
 #attachments.office.net/
-*.atlassian.com/
-*.atlassian.net/
-*.atl-paas.net/
+#*.atlassian.com/
+#*.atlassian.net/
+#*.atl-paas.net/
