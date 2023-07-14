@@ -11,3 +11,4 @@ assets.adobedtm.com/
 facebook.com/
 *.fbcdn.net/
 chat.signal.org
+*.officeapps.live.com/
