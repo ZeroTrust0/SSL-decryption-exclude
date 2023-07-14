@@ -12,3 +12,5 @@ facebook.com/
 *.fbcdn.net/
 chat.signal.org
 *.officeapps.live.com/
+*.teams.microsoft.com/
+*.data.microsoft.com/
