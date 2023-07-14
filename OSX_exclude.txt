@@ -11,13 +11,16 @@ assets.adobedtm.com/
 facebook.com/
 *.fbcdn.net/
 chat.signal.org
+
+#Microsoft
+#Vedlegg til e-post
+attachments.office.net/
+teams.microsoft.com/
+*.teams.microsoft.com/
+#*.cdn.office.net/
 #*.officeapps.live.com/
 #*.teams.microsoft.com/
 #*.data.microsoft.com/
 #outlook.com/
 #outlook.office365.com/
 #*.office.com/
-
-#Vedlegg til e-post
-attachments.office.net/
-#*.cdn.office.net/
