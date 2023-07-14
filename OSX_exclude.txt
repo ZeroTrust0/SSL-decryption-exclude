@@ -17,5 +17,7 @@ chat.signal.org
 #outlook.com/
 #outlook.office365.com/
 #*.office.com/
+
+#Vedlegg til e-post
 attachments.office.net/
 #*.cdn.office.net/
