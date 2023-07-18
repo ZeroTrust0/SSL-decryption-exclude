@@ -8,3 +8,5 @@ storage.signal.org
 *.signal.org
 login.microsoftonline.com
 *.teliaplay.net/
+teliaplay.no/
+*.teliaplay.no/
