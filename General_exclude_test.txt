@@ -3,3 +3,4 @@
 *.teliaplay.net/
 teliaplay.no/
 *.teliaplay.no/
+cache.agilebits.com/
