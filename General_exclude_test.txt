@@ -1,2 +1,5 @@
 #Add URLs for test here
 #attachments.office.net/
+*.teliaplay.net/
+teliaplay.no/
+*.teliaplay.no/
