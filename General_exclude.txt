@@ -1,4 +1,4 @@
-live-bauerno.sharp-stream.com/
+3live-bauerno.sharp-stream.com/
 *.aperture-eu.paloaltonetworks.com/
 *.dropbox.com/
 *.sonos.com/
@@ -7,6 +7,6 @@ chat.signal.org
 storage.signal.org
 *.signal.org
 login.microsoftonline.com
-*.teliaplay.net/
-teliaplay.no/
-*.teliaplay.no/
+#*.teliaplay.net/
+#teliaplay.no/
+#*.teliaplay.no/
