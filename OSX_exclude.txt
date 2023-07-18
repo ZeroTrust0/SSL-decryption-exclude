@@ -1,6 +1,8 @@
 *.apple.com/
 go.paloaltonetworks.com/
 *.traps.paloaltonetworks.com/
+sso.paloaltonetworks.com/
+auth.apps.paloaltonetworks.com/
 assets.adobedtm.com/
 *.netflix.com/
 *.nflxvideo.net/
