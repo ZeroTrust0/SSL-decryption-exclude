@@ -34,5 +34,3 @@ www.dropboxstatic.com/
 #*.atlassian.net/
 #*.atlassian.com/
 *.pndsn.com/
-files.slack.com/
-pan-community.slack.com/
