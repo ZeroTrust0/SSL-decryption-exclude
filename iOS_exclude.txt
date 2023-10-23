@@ -18,7 +18,7 @@ api.twitter.com/
 sali.sonos.radio/
 i.scdn.co/ #Sonos?
 d1uner0r1fcap8.cloudfront.net/ #Sonos?
-#b2vapi.bmwgroup.com/
+b2vapi.bmwgroup.com/
 myc-profile.bmwgroup.com/
 
 
