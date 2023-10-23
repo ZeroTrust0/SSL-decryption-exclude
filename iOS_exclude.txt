@@ -2,6 +2,7 @@
 panw-ciam.okta-gov.com/
 *.okta-gov.com/
 *.facebook.com/
+cl1.apple.com/
 
 
 #*.acompli.net/
