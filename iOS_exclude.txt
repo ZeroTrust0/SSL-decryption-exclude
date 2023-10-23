@@ -1,6 +1,7 @@
 #Pan-OS 11.x. 20231023
 panw-ciam.okta-gov.com/
 *.okta-gov.com/
+*.facebook.com/
 
 
 #*.acompli.net/
