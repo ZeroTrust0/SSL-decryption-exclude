@@ -5,12 +5,12 @@ panw-ciam.okta-gov.com/
 cl1.apple.com/
 
 #Arlo
-arlo.net/gear.com/
-my.arlo.com/
+#arlo.net/gear.com/
+#my.arlo.com/
 ocapi.arlo.com/
-arlolastimage-z1.s3.amazonaws.com/
-arlos3-prod-z1.s3.amazonaws.com/
-myapi.arlo.com/
+#arlolastimage-z1.s3.amazonaws.com/
+#arlos3-prod-z1.s3.amazonaws.com/
+#myapi.arlo.com/
 
 
 #*.acompli.net/
