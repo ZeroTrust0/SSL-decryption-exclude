@@ -335,3 +335,4 @@ jwplayer.map.fastly.net/
 
 *.whispersystems.org/
 panw-ciam.okta-gov.com/
+*.okta-gov.com/
