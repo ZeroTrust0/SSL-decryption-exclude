@@ -26,14 +26,15 @@ mobilbank.api.dnb.no/
 api.ciam.dnb.no/
 apigateway.americanexpress.com
 iwmapapi.americanexpress.com
+omns.americanexpress.com
 features.bankidapis.no
 api.eu.amplitude.com
 toba.bankidapis.no
 id.banknorwegian.no
 encap.signicat.com
-identity.banknorwegian.no
-api.banknorwegian.no
-www.banknorwegian.no
+#identity.banknorwegian.no
+#api.banknorwegian.no
+#www.banknorwegian.no
 
 #######
 
