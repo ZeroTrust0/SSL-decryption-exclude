@@ -24,6 +24,7 @@ ms.sc-jpl.com/
 cdn.dibspayment.com/
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
+#*.amazonaws.com/ #DNB
 #app-measurement.com/
 #um.web.dnb.no/
 api.vipps.no/
