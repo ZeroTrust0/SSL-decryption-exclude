@@ -29,6 +29,7 @@ api.puls.dnb.no/
 *.amazonaws.com/ #DNB
 #app-measurement.com/
 #um.web.dnb.no/
+overmind.datatheorem.com/
 
 
 api.vipps.no/
