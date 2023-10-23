@@ -1,6 +1,6 @@
 #Pan-OS 11.x. 20231023
 play.googleapis.com/
-
+www.googleapis.com/
 
 ####
 #*.apple.com/
