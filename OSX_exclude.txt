@@ -3,6 +3,7 @@ play.googleapis.com/
 www.googleapis.com/
 fcmconnection.googleapis.com/
 drivefrontend-pa.googleapis.com/
+gem-pa.googleapis.com/
 lh3.googleusercontent.com/
 cdn.dibspayment.com/
 
