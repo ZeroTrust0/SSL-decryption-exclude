@@ -12,6 +12,8 @@ myapi.arlo.com/
 i.instagram.com/
 appboot.netflix.com/
 updates2.signal.org/
+api.twitter.com/
+
 
 #######
 
