@@ -24,6 +24,7 @@ api.countly.bmwgroup.com/
 cocoapi.bmwgroup.com/
 sp-ad-fa.audio.tidal.com/
 ms.sc-jpl.com/
+cdn.dibspayment.com/
 
 Signal Messenger
 
