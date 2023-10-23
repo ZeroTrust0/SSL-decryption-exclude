@@ -1,37 +1,42 @@
-*.apple.com/
-go.paloaltonetworks.com/
-*.traps.paloaltonetworks.com/
-sso.paloaltonetworks.com/
-auth.apps.paloaltonetworks.com/
-assets.adobedtm.com/
-*.netflix.com/
-*.nflxvideo.net/
-*.licdn.com/
-*.linkedin.com/
+#Pan-OS 11.x. 20231023
 
-*.zwift.com/
-*.googleapis.com/
-*.facebook.com/
-facebook.com/
-*.fbcdn.net/
-chat.signal.org
+
+
+####
+#*.apple.com/
+#go.paloaltonetworks.com/
+#*.traps.paloaltonetworks.com/
+#sso.paloaltonetworks.com/
+#auth.apps.paloaltonetworks.com/
+#assets.adobedtm.com/
+#*.netflix.com/
+#*.nflxvideo.net/
+#*.licdn.com/
+#*.linkedin.com/
+
+#*.zwift.com/
+#*.googleapis.com/
+#*.facebook.com/
+#facebook.com/
+#*.fbcdn.net/
+#chat.signal.org
 
 #Microsoft
 #Vedlegg til e-post
-*.office.net/
-attachments.office.net/
-*.microsoft.com/
-*.officeapps.live.com/
-teams.live.com/
-*.office.com/
-outlook.com/
-outlook.office365.com/
-aadcdn.msftauth.net/
+#*.office.net/
+#attachments.office.net/
+#*.microsoft.com/
+#*.officeapps.live.com/
+#teams.live.com/
+#*.office.com/
+#outlook.com/
+#outlook.office365.com/
+#aadcdn.msftauth.net/
 
-www.dropboxstatic.com/
+#www.dropboxstatic.com/
 
 #*.atl-paas.net/
 #*.atlassian.net/
 #*.atlassian.com/
-*.pndsn.com/
-*.wireshark.org/
+#*.pndsn.com/
+#*.wireshark.org/
