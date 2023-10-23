@@ -1,15 +1,17 @@
 #Pan-OS 11.x. 20231023
-panw-ciam.okta-gov.com/
-*.okta-gov.com/
+*.okta-gov.com/ #panw-ciam.okta-gov.com/
 *.facebook.com/
 cl1.apple.com/
-guzzoni.apple.com/
+*.apple.com/
 ocapi.arlo.com/
 myapi.arlo.com/
 *.sc-cdn.net/ #Snap
 *.sct.sc-prod.net/ #Snap?
 *.strava.com/
 i.instagram.com/
+*.netflix.com/
+*.signal.org/
+
 
 #######
 
