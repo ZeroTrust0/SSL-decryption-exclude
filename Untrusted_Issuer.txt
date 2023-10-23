@@ -8,4 +8,3 @@ fe3cr.delivery.mp.microsoft.com/
 13.48.183.193
 *.gorantomte.com
 10.0.1.210
-Signal Messenger
