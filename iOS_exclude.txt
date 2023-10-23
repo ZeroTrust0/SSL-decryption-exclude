@@ -25,9 +25,11 @@ cdn.dibspayment.com/
 
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
+api.puls.dnb.no/
 *.amazonaws.com/ #DNB
 #app-measurement.com/
 #um.web.dnb.no/
+
 
 api.vipps.no/
 
