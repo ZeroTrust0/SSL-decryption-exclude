@@ -13,8 +13,6 @@ i.instagram.com/
 appboot.netflix.com/
 updates2.signal.org/
 api.twitter.com/
-m.twitter.com/
-
 
 #######
 
