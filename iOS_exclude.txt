@@ -15,6 +15,7 @@ updates2.signal.org/
 chat.signal.org/
 ud-chat.signal.org/
 api.twitter.com/
+sali.sonos.radio/
 
 #######
 
