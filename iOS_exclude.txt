@@ -3,9 +3,15 @@ panw-ciam.okta-gov.com/
 *.okta-gov.com/
 *.facebook.com/
 cl1.apple.com/
-
-#Arlo
+guzzoni.apple.com/
 ocapi.arlo.com/
+myapi.arlo.com/
+*.sc-cdn.net #Snap
+*.sct.sc-prod.net #Snap?
+
+#######
+
+
 
 #*.acompli.net/
 #storage.googleapis.com/
