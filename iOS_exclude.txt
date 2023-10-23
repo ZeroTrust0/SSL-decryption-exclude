@@ -23,6 +23,7 @@ d1uner0r1fcap8.cloudfront.net/ #Sonos?
 api.countly.bmwgroup.com/
 cocoapi.bmwgroup.com/
 sp-ad-fa.audio.tidal.com/
+ms.sc-jpl.com/
 
 
 
