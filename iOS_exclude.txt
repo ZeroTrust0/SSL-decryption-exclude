@@ -6,8 +6,8 @@ cl1.apple.com/
 guzzoni.apple.com/
 ocapi.arlo.com/
 myapi.arlo.com/
-*.sc-cdn.net #Snap
-*.sct.sc-prod.net #Snap?
+*.sc-cdn.net/ #Snap
+*.sct.sc-prod.net/ #Snap?
 
 #######
 
