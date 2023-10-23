@@ -3,6 +3,7 @@
 *.facebook.com/
 cl1.apple.com/
 *.apple.com/
+app-site-association.cdn-apple.com/
 ocapi.arlo.com/
 myapi.arlo.com/
 *.sc-cdn.net/ #Snap
