@@ -9,9 +9,8 @@ myapi.arlo.com/
 *.sct.sc-prod.net/ #Snap?
 *.strava.com/
 i.instagram.com/
-*.netflix.com/
-*.signal.org/
-
+appboot.netflix.com/
+updates2.signal.org/
 
 #######
 
