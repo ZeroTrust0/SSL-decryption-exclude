@@ -23,6 +23,17 @@ sp-ad-fa.audio.tidal.com/
 ms.sc-jpl.com/
 cdn.dibspayment.com/
 mobilbank.api.dnb.no/
+api.ciam.dnb.no/
+apigateway.americanexpress.com
+iwmapapi.americanexpress.com
+features.bankidapis.no
+api.eu.amplitude.com
+toba.bankidapis.no
+id.banknorwegian.no
+encap.signicat.com
+identity.banknorwegian.no
+api.banknorwegian.no
+www.banknorwegian.no
 
 #######
 
