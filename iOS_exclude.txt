@@ -36,15 +36,6 @@ iwmapapi.americanexpress.com/
 omns.americanexpress.com/
 mobileone.americanexpress.com/
 
-#features.bankidapis.no
-#api.eu.amplitude.com
-#toba.bankidapis.no
-#id.banknorwegian.no
-#encap.signicat.com
-#identity.banknorwegian.no
-#api.banknorwegian.no
-#www.banknorwegian.no
-
 #######
 
 #*.acompli.net/
