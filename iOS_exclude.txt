@@ -9,6 +9,7 @@ myapi.arlo.com/
 *.sc-cdn.net/ #Snap
 *.sct.sc-prod.net/ #Snap?
 *.strava.com/
+i.instagram.com/
 
 #######
 
