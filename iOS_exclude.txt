@@ -23,6 +23,7 @@ sp-ad-fa.audio.tidal.com/
 ms.sc-jpl.com/
 cdn.dibspayment.com/
 *.spotifycdn.com/
+*.duosecurity.com/
 
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
