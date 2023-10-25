@@ -38,6 +38,12 @@ iwmapapi.americanexpress.com/
 omns.americanexpress.com/
 mobileone.americanexpress.com/
 
+#LinkedIn
+media-exp1.licdn.com/
+www.linkedin.com/
+linkedinmobileapp.com/
+
+
 #######
 
 #*.acompli.net/
