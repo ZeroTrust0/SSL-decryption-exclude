@@ -12,11 +12,14 @@ myapi.arlo.com/
 i.instagram.com/
 appboot.netflix.com/
 api.twitter.com/
+api-stream.twitter.com/
 sali.sonos.radio/
 i.scdn.co/ #Sonos?
 d1uner0r1fcap8.cloudfront.net/ #Sonos?
 system-api.sonos.com/
 *.sonos.radio/
+sonosradio.imgix.net/
+cdn-radiotime-logos.tunein.com/ #Sonos?
 #b2vapi.bmwgroup.com/
 #myc-profile.bmwgroup.com/
 api.countly.bmwgroup.com/
