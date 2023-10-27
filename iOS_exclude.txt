@@ -32,6 +32,7 @@ partner-links.spotify.com/
 spotify.com/
 www.spotify.com/
 dealer.spotify.com/
+gew4-dealer.spotify.com/
 i.scdn.co/ #Spotify podcast
 *.duosecurity.com/
 
