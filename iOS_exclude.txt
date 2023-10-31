@@ -3,6 +3,7 @@
 *.facebook.com/
 *.fbcdn.net/
 *.uber.com/
+*.oojoovae.org/ #Uber
 cl1.apple.com/
 *.apple.com/
 app-site-association.cdn-apple.com/
@@ -24,6 +25,7 @@ system-api.sonos.com/
 sonosradio.imgix.net/
 cdn-radiotime-logos.tunein.com/ #Sonos?
 cdn-profiles.tunein.com/
+cdn-radiotime-logos.tunein.com/
 #b2vapi.bmwgroup.com/
 #myc-profile.bmwgroup.com/
 api.countly.bmwgroup.com/
