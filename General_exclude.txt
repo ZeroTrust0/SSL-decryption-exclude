@@ -1,5 +1,6 @@
 3live-bauerno.sharp-stream.com/
 *.dropbox.com/
+api.dropboxapi.com/
 *.sonos.com/
 sonos.com/
 *.signal.org/
