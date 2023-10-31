@@ -41,6 +41,7 @@ dealer.spotify.com/
 gew4-dealer.spotify.com/
 i.scdn.co/ #Spotify podcast
 *.duosecurity.com/
+api.dropboxapi.com/
 
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
