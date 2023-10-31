@@ -8,6 +8,7 @@ fcmtoken.googleapis.com/
 lh3.googleusercontent.com/
 cdn.dibspayment.com/
 *.spotify.com/
+teams.events.data.microsoft.com/
 
 
 ####
