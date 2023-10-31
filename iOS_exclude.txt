@@ -1,6 +1,8 @@
 #Pan-OS 11.x. 20231023
 *.okta-gov.com/ #panw-ciam.okta-gov.com/
 *.facebook.com/
+*.fbcdn.net/
+*.uber.com/
 cl1.apple.com/
 *.apple.com/
 app-site-association.cdn-apple.com/
@@ -10,6 +12,7 @@ myapi.arlo.com/
 *.sct.sc-prod.net/ #Snap?
 *.strava.com/
 i.instagram.com/
+gateway.instagram.com/
 appboot.netflix.com/
 api.twitter.com/
 api-stream.twitter.com/
@@ -20,6 +23,7 @@ system-api.sonos.com/
 *.sonos.radio/
 sonosradio.imgix.net/
 cdn-radiotime-logos.tunein.com/ #Sonos?
+cdn-profiles.tunein.com/
 #b2vapi.bmwgroup.com/
 #myc-profile.bmwgroup.com/
 api.countly.bmwgroup.com/
