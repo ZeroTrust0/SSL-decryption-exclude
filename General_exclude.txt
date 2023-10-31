@@ -5,4 +5,4 @@ api.dropboxapi.com/
 sonos.com/
 *.signal.org/
 login.microsoftonline.com
-
+teams.live.com/
