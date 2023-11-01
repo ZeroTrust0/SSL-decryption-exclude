@@ -9,8 +9,8 @@ cl1.apple.com/
 app-site-association.cdn-apple.com/
 ocapi.arlo.com/
 myapi.arlo.com/
-api.swrve.com/ #Arlo
-#*.arlo.com/
+#api.swrve.com/ #Arlo
+*.arlo.com/
 *.sc-cdn.net/ #Snap
 *.sct.sc-prod.net/ #Snap?
 *.strava.com/
