@@ -66,14 +66,16 @@ dms.licdn.com/
 media-ecst.licdn.com/
 pop-lor1-lx.www.linkedin.com/
 
-play.googleapis.com/
+#play.googleapis.com/
 #safebrowsing.googleapis.com/
 #clientservices.googleapis.com/
 #www.googleapis.com/
 #firebaselogging-pa.googleapis.com/
 #oauthaccountmanager.googleapis.com/
 #fcmtoken.googleapis.com/
-*.googleapis.com/
+calendarsync-pa.googleapis.com/
+#*.googleapis.com/
+
 
 
 #######
