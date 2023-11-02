@@ -73,7 +73,7 @@ play.googleapis.com/
 #firebaselogging-pa.googleapis.com/
 #oauthaccountmanager.googleapis.com/
 #fcmtoken.googleapis.com/
-#*.googleapis.com/
+*.googleapis.com/
 
 
 #######
