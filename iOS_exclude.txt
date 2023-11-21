@@ -75,6 +75,11 @@ pop-lor1-lx.www.linkedin.com/
 #fcmtoken.googleapis.com/
 calendarsync-pa.googleapis.com/
 #*.googleapis.com/
+proxy-safebrowsing.googleapis.com
+calendarsuggest.googleapis.com
+www.googleapis.com
+people-pa.googleapis.com
+oauthaccountmanager.googleapis.com
 
 
 
