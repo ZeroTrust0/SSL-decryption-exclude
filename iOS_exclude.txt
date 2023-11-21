@@ -80,7 +80,8 @@ calendarsuggest.googleapis.com
 www.googleapis.com
 people-pa.googleapis.com
 oauthaccountmanager.googleapis.com
-
+calendar-pa.googleapis.com
+tasks-pa.googleapis.com
 
 
 #######
