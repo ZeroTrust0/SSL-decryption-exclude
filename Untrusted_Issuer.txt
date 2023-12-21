@@ -9,4 +9,4 @@ fe3cr.delivery.mp.microsoft.com/
 *.gorantomte.com
 10.0.1.210
 cdn.dibspayment.com/
-141.0.96.132
+gp.tomb.no
