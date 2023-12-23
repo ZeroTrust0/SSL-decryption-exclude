@@ -10,4 +10,3 @@ fe3cr.delivery.mp.microsoft.com/
 10.0.1.210
 cdn.dibspayment.com/
 gp.tomb.no
-fw.tomb.no
