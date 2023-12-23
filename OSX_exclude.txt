@@ -10,7 +10,6 @@ cdn.dibspayment.com/
 *.spotify.com/
 teams.events.data.microsoft.com/
 www.dropboxstatic.com/
-fw.tomb.no
 
 
 ####
