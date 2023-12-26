@@ -47,6 +47,7 @@ api.dropboxapi.com/
 zoom.us/
 *.zoom.us/
 discovery.helsenorge.no/
+eksternapi-mtls.helsenorge.no/
 
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
