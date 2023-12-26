@@ -51,6 +51,7 @@ mobilbank.api.dnb.no/
 api.ciam.dnb.no/
 api.puls.dnb.no/
 v2.mobilbank.api.dnb.no/
+v2.spare.api.dnb.no/
 *.amazonaws.com/ #DNB
 overmind.datatheorem.com/
 
