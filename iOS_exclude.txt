@@ -50,6 +50,7 @@ discovery.helsenorge.no/
 eksternapi-mtls.helsenorge.no/
 login.idporten.no/
 auth.tidal.com/
+smapi.tidal.com
 
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
@@ -279,6 +280,7 @@ tasks-pa.googleapis.com
 #NRK
 #fil.nrk.no/
 #ssl-nrk.tns-cs.net/
+psapi.nrk.no
 
 #Instagram
 #graph.instagram.com/
