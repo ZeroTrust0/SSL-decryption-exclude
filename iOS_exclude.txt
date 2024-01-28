@@ -50,7 +50,8 @@ discovery.helsenorge.no/
 eksternapi-mtls.helsenorge.no/
 login.idporten.no/
 auth.tidal.com/
-smapi.tidal.com
+smapi.tidal.com/
+resources.tidal.com/
 
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
