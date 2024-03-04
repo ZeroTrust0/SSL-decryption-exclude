@@ -92,6 +92,7 @@ calendarsync-pa.googleapis.com/
 #oauthaccountmanager.googleapis.com
 calendar-pa.googleapis.com
 tasks-pa.googleapis.com
+*.garmin.com
 
 #######
 
