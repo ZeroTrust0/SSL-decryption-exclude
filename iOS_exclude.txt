@@ -13,6 +13,7 @@ myapi.arlo.com/
 *.arlo.com/
 *.sc-cdn.net/ #Snap
 *.sct.sc-prod.net/ #Snap?
+aws.duplex.snapchat.com
 *.strava.com/
 i.instagram.com/
 gateway.instagram.com/
