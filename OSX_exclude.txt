@@ -11,7 +11,7 @@ cdn.dibspayment.com/
 teams.events.data.microsoft.com/
 www.dropboxstatic.com/
 jastrack.jas.com #test 3/1-2024 Seaborn
-
+www.expedia.com #Problemer med hotels.com
 
 
 ####
