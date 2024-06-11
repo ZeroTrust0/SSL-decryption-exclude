@@ -17,6 +17,7 @@ aws.duplex.snapchat.com
 *.strava.com/
 i.instagram.com/
 gateway.instagram.com/
+scontent.cdninstagram.com
 appboot.netflix.com/
 api.twitter.com/
 api-stream.twitter.com/
@@ -53,6 +54,8 @@ login.idporten.no/
 auth.tidal.com/
 smapi.tidal.com/
 resources.tidal.com/
+*.googleusercontent.com
+edgestatic.com
 
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
