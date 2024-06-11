@@ -17,6 +17,7 @@ aws.duplex.snapchat.com
 *.strava.com/
 i.instagram.com/
 gateway.instagram.com/
+i-fallback.instagram.com
 scontent.cdninstagram.com
 appboot.netflix.com/
 api.twitter.com/
