@@ -14,7 +14,8 @@ jastrack.jas.com #test 3/1-2024 Seaborn
 www.expedia.com #Problemer med hotels.com
 *.nel.measure.office.net #Teams heng situasjoner
 *.dnb.no
-gdmf.apple.com
+*.apple.com
+*.icloud.com
 
 ####
 #*.apple.com/
