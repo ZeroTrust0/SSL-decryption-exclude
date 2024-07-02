@@ -16,6 +16,7 @@ www.expedia.com #Problemer med hotels.com
 *.dnb.no
 *.apple.com
 *.icloud.com
+*.gopro.com
 
 ####
 #*.apple.com/
