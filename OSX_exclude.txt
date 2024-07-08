@@ -18,6 +18,7 @@ www.expedia.com #Problemer med hotels.com
 *.icloud.com
 *.gopro.com
 upload.video.google.com
+content.icloud.com
 
 ####
 #*.apple.com/
