@@ -57,6 +57,7 @@ smapi.tidal.com/
 resources.tidal.com/
 *.googleusercontent.com
 edgestatic.com
+content.icloud.com
 
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
