@@ -21,6 +21,7 @@ upload.video.google.com
 content.icloud.com
 autoupdate.geo.opera.com
 download.opera.com
+*.operacdn.com
 
 ####
 #*.apple.com/
