@@ -20,6 +20,7 @@ www.expedia.com #Problemer med hotels.com
 upload.video.google.com
 content.icloud.com
 autoupdate.geo.opera.com
+download.opera.com
 
 ####
 #*.apple.com/
