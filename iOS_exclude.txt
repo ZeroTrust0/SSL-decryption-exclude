@@ -5,7 +5,7 @@
 *.uber.com/
 *.oojoovae.org/ #Uber
 cl1.apple.com/
-*.apple.com/
+*.apple.com
 app-site-association.cdn-apple.com/
 publicassets.cdn-apple.com/
 ocapi.arlo.com/
