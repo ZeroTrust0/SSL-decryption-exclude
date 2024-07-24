@@ -7,6 +7,7 @@
 cl1.apple.com/
 *.apple.com/
 app-site-association.cdn-apple.com/
+publicassets.cdn-apple.com/
 ocapi.arlo.com/
 myapi.arlo.com/
 #api.swrve.com/ #Arlo
@@ -290,6 +291,7 @@ tasks-pa.googleapis.com
 #fil.nrk.no/
 #ssl-nrk.tns-cs.net/
 psapi.nrk.no
+undertekst.nrk.no
 
 #Instagram
 #graph.instagram.com/
