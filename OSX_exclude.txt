@@ -28,6 +28,9 @@ my.1password.com
 telemetry.1passwordservices.com
 c.1password.com
 b5n.1password.com
+watchtower.1password.com
+
+
 
 ####
 #*.apple.com/
