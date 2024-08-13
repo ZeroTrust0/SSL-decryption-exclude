@@ -24,11 +24,12 @@ download.opera.com
 addons.opera.com
 #*.opera.com
 *.operacdn.com
-my.1password.com
-telemetry.1passwordservices.com
-c.1password.com
-b5n.1password.com
-watchtower.1password.com
+*.1passwordservices.com
+*.1password.com
+*.1password.eu
+1password.com
+
+
 
 
 
