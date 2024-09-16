@@ -7,3 +7,4 @@ sonos.com/
 login.microsoftonline.com
 teams.live.com/
 *.icloud-content.com
+*.icloud.com
