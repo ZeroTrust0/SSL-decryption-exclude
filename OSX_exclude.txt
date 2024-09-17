@@ -5,6 +5,7 @@ fcmconnection.googleapis.com/
 drivefrontend-pa.googleapis.com/
 gem-pa.googleapis.com/
 fcmtoken.googleapis.com/
+appsitemsuggest-pa.googleapis.com
 lh3.googleusercontent.com/
 cdn.dibspayment.com/
 *.spotify.com/
