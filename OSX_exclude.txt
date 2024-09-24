@@ -8,7 +8,8 @@ fcmtoken.googleapis.com/
 appsitemsuggest-pa.googleapis.com
 lh3.googleusercontent.com/
 cdn.dibspayment.com/
-*.spotify.com/
+*.spotify.com
+*.spotifycdn.com
 teams.events.data.microsoft.com/
 www.dropboxstatic.com/
 jastrack.jas.com #test 3/1-2024 Seaborn
