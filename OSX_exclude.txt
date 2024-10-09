@@ -32,7 +32,8 @@ addons.opera.com
 1password.com
 *.tidal.com
 *.richaudience.com
-
+tryg.no
+*.tryg.no
 
 
 ####
