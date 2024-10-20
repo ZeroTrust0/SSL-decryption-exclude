@@ -103,4 +103,4 @@ tasks-pa.googleapis.com
 *.garmin.com
 *.amp-endpoint2.com
 *.polarismedia.no
-
+*.openai.com
