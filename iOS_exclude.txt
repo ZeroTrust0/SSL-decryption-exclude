@@ -16,10 +16,8 @@ myapi.arlo.com/
 *.sct.sc-prod.net/ #Snap?
 aws.duplex.snapchat.com
 *.strava.com/
-i.instagram.com/
-gateway.instagram.com/
-i-fallback.instagram.com
-scontent.cdninstagram.com
+*.instagram.com
+*.cdninstagram.com
 appboot.netflix.com/
 api.twitter.com/
 api-stream.twitter.com/
