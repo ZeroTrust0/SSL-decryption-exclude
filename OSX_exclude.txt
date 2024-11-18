@@ -34,7 +34,7 @@ addons.opera.com
 *.richaudience.com
 tryg.no
 *.tryg.no
-
+*.remarkable.engineering
 
 ####
 #*.apple.com/
