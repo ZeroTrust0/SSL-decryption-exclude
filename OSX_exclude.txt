@@ -35,6 +35,7 @@ addons.opera.com
 tryg.no
 *.tryg.no
 *.remarkable.engineering
+saasedl.paloaltonetworks.com
 
 ####
 #*.apple.com/
