@@ -106,3 +106,4 @@ tasks-pa.googleapis.com
 *.sentry.io      #ChatGPT
 *.chatgpt.com
 psapi.nrk.no
+*.tryg.no
