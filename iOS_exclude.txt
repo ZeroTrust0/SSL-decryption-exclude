@@ -107,3 +107,6 @@ tasks-pa.googleapis.com
 *.chatgpt.com
 psapi.nrk.no
 *.tryg.no
+
+api.autonomic.ai  #FordPass
+api.mps.ford.com  #FordPass
