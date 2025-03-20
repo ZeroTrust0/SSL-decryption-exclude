@@ -13,3 +13,4 @@ cdn.dibspayment.com/
 gp.tomb.no
 217.149.121.98  #LMD
 *.lefdalmine.com
+51.120.126.85
