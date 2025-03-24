@@ -13,4 +13,5 @@ cdn.dibspayment.com/
 gp.tomb.no
 217.149.121.98  #LMD
 *.lefdalmine.com
-51.120.126.85
+51.120.126.85 #Heidenreich
+000710031311 #Heidenreich
