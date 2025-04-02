@@ -41,6 +41,8 @@ saasedl.paloaltonetworks.com
 *.sentry.io      #ChatGPT
 *.chatgpt.com
 signaler-pa.googleapis.com
+trumfnetthandel.no
+m.americanexpress.com
 
 ####
 #*.apple.com/
