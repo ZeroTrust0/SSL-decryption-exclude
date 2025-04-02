@@ -40,6 +40,7 @@ saasedl.paloaltonetworks.com
 *.intercom.io    #ChatGPT
 *.sentry.io      #ChatGPT
 *.chatgpt.com
+signaler-pa.googleapis.com
 
 ####
 #*.apple.com/
