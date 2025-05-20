@@ -16,6 +16,3 @@ gp.tomb.no
 51.120.126.85 #Heidenreich
 000710031311 #Heidenreich
 uvo1tge0sexqsaeqta6.vm.cld.sr #Palo IoT UTD
-vpn.baring.no
-*.baring.no
-79.161.223.242
