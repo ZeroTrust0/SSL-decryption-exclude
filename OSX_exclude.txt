@@ -43,6 +43,7 @@ saasedl.paloaltonetworks.com
 signaler-pa.googleapis.com
 trumfnetthandel.no
 m.americanexpress.com
+upload.video.google.com
 
 ####
 #*.apple.com/
