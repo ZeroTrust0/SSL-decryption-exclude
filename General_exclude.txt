@@ -9,3 +9,8 @@ teams.live.com/
 *.icloud-content.com
 *.icloud.com
 vdi.eksfin.no
+*.openai.com     #ChatGPT
+*.intercom.io    #ChatGPT
+*.sentry.io      #ChatGPT
+*.chatgpt.com    #ChatGPT
+chatgpt.com    #ChatGPT
