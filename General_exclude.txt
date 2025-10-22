@@ -13,4 +13,5 @@ vdi.eksfin.no
 *.intercom.io    #ChatGPT
 *.sentry.io      #ChatGPT
 *.chatgpt.com    #ChatGPT
-chatgpt.com    #ChatGPT
+chatgpt.com      #ChatGPT
+*.oaiusercontent.com  #ChatGPT
