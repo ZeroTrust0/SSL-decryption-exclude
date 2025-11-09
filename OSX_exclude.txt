@@ -24,6 +24,7 @@ content.icloud.com
 autoupdate.geo.opera.com
 download.opera.com
 addons.opera.com
+bilxtra.no
 #*.opera.com
 *.operacdn.com
 *.1passwordservices.com
