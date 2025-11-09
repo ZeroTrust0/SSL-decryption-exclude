@@ -53,6 +53,12 @@ b.clarity.ms
 www.clarity.ms
 api.termius.com
 s.xlgmedia.com
+ecommerce.jernia.no
+
+
+
+
+
 
 ####
 #*.apple.com/
