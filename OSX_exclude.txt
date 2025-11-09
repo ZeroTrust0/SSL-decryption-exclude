@@ -49,6 +49,7 @@ chatgpt.com    #ChatGPT
 trumfnetthandel.no
 m.americanexpress.com
 w.usabilla.com
+b.clarity.ms
 
 ####
 #*.apple.com/
