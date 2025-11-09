@@ -85,6 +85,12 @@ linkedinmobileapp.com/
 dms.licdn.com/
 media-ecst.licdn.com/
 pop-lor1-lx.www.linkedin.com/
+dc.schibsted.io
+
+
+
+
+
 
 #play.googleapis.com/
 #safebrowsing.googleapis.com/
