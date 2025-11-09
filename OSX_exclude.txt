@@ -48,6 +48,7 @@ saasedl.paloaltonetworks.com
 chatgpt.com    #ChatGPT
 trumfnetthandel.no
 m.americanexpress.com
+w.usabilla.com
 
 ####
 #*.apple.com/
