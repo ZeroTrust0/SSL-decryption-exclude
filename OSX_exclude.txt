@@ -51,6 +51,7 @@ m.americanexpress.com
 w.usabilla.com
 b.clarity.ms
 www.clarity.ms
+api.termius.com
 
 ####
 #*.apple.com/
