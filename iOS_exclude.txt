@@ -65,6 +65,8 @@ api.puls.dnb.no/
 v2.mobilbank.api.dnb.no/
 v2.spare.api.dnb.no/
 *.amazonaws.com/ #DNB
+m.dnb.no
+
 overmind.datatheorem.com/
 
 api.vipps.no/
