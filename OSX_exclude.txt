@@ -52,6 +52,7 @@ w.usabilla.com
 b.clarity.ms
 www.clarity.ms
 api.termius.com
+s.xlgmedia.com
 
 ####
 #*.apple.com/
