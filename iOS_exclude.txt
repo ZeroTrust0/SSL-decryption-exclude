@@ -59,6 +59,7 @@ resources.tidal.com/
 edgestatic.com
 *.icloud.com
 www.yr.no
+turn.cloudflare.com
 
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
