@@ -54,6 +54,7 @@ www.clarity.ms
 api.termius.com
 s.xlgmedia.com
 ecommerce.jernia.no
+eu.klarnaevt.com
 
 
 
