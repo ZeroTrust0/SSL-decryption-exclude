@@ -55,7 +55,7 @@ api.termius.com
 s.xlgmedia.com
 ecommerce.jernia.no
 eu.klarnaevt.com
-
+login.live.com
 
 
 
