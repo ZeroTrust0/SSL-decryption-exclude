@@ -35,6 +35,9 @@ cdn-radiotime-logos.tunein.com/
 #myc-profile.bmwgroup.com/
 api.countly.bmwgroup.com/
 cocoapi.bmwgroup.com/
+customer.bmwgroup.com
+attest.api.approov.io
+
 sp-ad-fa.audio.tidal.com/
 ms.sc-jpl.com/
 cdn.dibspayment.com/
