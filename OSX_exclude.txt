@@ -59,6 +59,7 @@ login.live.com
 #songbird.cardinalcommerce.com
 #paypages.payment.amadeus.com
 #auth.flysas.com
+api2.flysas.com
 #norwegian.no
 #components.flysas.com
 #ctimg-svg.cartrawler.com
