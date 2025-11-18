@@ -71,8 +71,7 @@ login.live.com
 #cdnjs.cloudflare.com
 #imgcy.trivago.com
 #www.trivago.no
-centinelapi.cardinalcommerce.com
-centinelapi.cardinalcommerce.co
+*.cardinalcommerce.com #SAS betaling
 
 
 
