@@ -56,13 +56,12 @@ s.xlgmedia.com
 ecommerce.jernia.no
 eu.klarnaevt.com
 login.live.com
-#songbird.cardinalcommerce.com
-#paypages.payment.amadeus.com
-#auth.flysas.com
+paypages.payment.amadeus.com
+auth.flysas.com
 api2.flysas.com
 feature-toggles-proxy.flysas.com
 #norwegian.no
-#components.flysas.com
+components.flysas.com
 #ctimg-svg.cartrawler.com
 #osm.klarnaservices.com
 #js.klarna.com
