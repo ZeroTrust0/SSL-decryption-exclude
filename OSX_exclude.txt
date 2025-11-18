@@ -56,22 +56,23 @@ s.xlgmedia.com
 ecommerce.jernia.no
 eu.klarnaevt.com
 login.live.com
-songbird.cardinalcommerce.com
-paypages.payment.amadeus.com
-auth.flysas.com
-norwegian.no
-components.flysas.com
-ctimg-svg.cartrawler.com
-osm.klarnaservices.com
-js.klarna.com
-a.cdn-hotels.com
-mediaim.expedia.com
-img.scandichotels.com
-cstat.cdn-apple.com
-cdnjs.cloudflare.com
-imgcy.trivago.com
-www.trivago.no
-
+#songbird.cardinalcommerce.com
+#paypages.payment.amadeus.com
+#auth.flysas.com
+#norwegian.no
+#components.flysas.com
+#ctimg-svg.cartrawler.com
+#osm.klarnaservices.com
+#js.klarna.com
+#a.cdn-hotels.com
+#mediaim.expedia.com
+#img.scandichotels.com
+#cstat.cdn-apple.com
+#cdnjs.cloudflare.com
+#imgcy.trivago.com
+#www.trivago.no
+centinelapi.cardinalcommerce.com
+centinelapi.cardinalcommerce.co
 
 
 
