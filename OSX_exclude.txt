@@ -73,7 +73,8 @@ components.flysas.com
 #imgcy.trivago.com
 #www.trivago.no
 *.cardinalcommerce.com #SAS betaling
-
+welib.no      #20/11-2025
+*.welib.no    #20/11-2025
 
 
 
