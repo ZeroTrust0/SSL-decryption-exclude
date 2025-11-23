@@ -59,10 +59,19 @@ login.live.com
 paypages.payment.amadeus.com
 *.flysas.com
 flysas.com
+www.flysas.com
 *.sas.com
 sas.com
 *.sas.no
 sas.no
+www.sas.no
+www.sas.com
+gtm.sas.no
+gtm.flysas.com
+components.flysas.com
+cloudflareinsights.com  #SAS
+*.cloudflareinsights.com  #SAS
+api2.flysas.com
 #norwegian.no
 #ctimg-svg.cartrawler.com
 #osm.klarnaservices.com
