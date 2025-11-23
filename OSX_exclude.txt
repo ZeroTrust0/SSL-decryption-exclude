@@ -59,6 +59,7 @@ login.live.com
 paypages.payment.amadeus.com
 *.flysas.com
 *.sas.com
+sas.com
 #norwegian.no
 #ctimg-svg.cartrawler.com
 #osm.klarnaservices.com
