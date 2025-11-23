@@ -57,12 +57,9 @@ ecommerce.jernia.no
 eu.klarnaevt.com
 login.live.com
 paypages.payment.amadeus.com
-auth.flysas.com
-api2.flysas.com
-www.sas.com
-feature-toggles-proxy.flysas.com
+*.flysas.com
+*.sas.com
 #norwegian.no
-components.flysas.com
 #ctimg-svg.cartrawler.com
 #osm.klarnaservices.com
 #js.klarna.com
