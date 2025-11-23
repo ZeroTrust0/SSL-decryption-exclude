@@ -59,6 +59,7 @@ login.live.com
 paypages.payment.amadeus.com
 auth.flysas.com
 api2.flysas.com
+www.sas.com
 feature-toggles-proxy.flysas.com
 #norwegian.no
 components.flysas.com
