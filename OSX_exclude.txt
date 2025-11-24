@@ -76,7 +76,9 @@ cloudflareinsights.com  #SAS
 *.cloudflareinsights.com  #SAS
 challenges.cloudflare.com #SAS
 cdn.auth0.com   #SAS
-
+static.cloudflareinsights.com  #SAS
+songbird.cardinalcommerce.com  #SAS
+includes.ccdc02.com  #SAS
 
 api2.flysas.com
 #norwegian.no
