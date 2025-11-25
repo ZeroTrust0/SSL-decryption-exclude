@@ -64,6 +64,7 @@ edgestatic.com
 www.yr.no
 turn.cloudflare.com
 
+#DNB
 mobilbank.api.dnb.no/
 api.ciam.dnb.no/
 api.puls.dnb.no/
@@ -71,6 +72,9 @@ v2.mobilbank.api.dnb.no/
 v2.spare.api.dnb.no/
 *.amazonaws.com/ #DNB
 m.dnb.no
+dnbbankasa.data.adobedc.net
+www.dnb.no
+chat.dnb.no
 
 overmind.datatheorem.com/
 
