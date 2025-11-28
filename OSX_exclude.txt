@@ -15,11 +15,15 @@ signaler-pa.googleapis.com
 cdn.dibspayment.com/
 *.spotify.com
 *.spotifycdn.com
-teams.events.data.microsoft.com/
 www.dropboxstatic.com/
 jastrack.jas.com #test 3/1-2024 Seaborn
 www.expedia.com #Problemer med hotels.com
+
+#Teams
+teams.events.data.microsoft.com/  #Teams
 *.nel.measure.office.net #Teams heng situasjoner
+*.teams.cdn.office.net  #Teams
+
 *.dnb.no
 *.apple.com
 *.icloud.com
