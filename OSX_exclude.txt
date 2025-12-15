@@ -12,10 +12,11 @@ appsitemsuggest-pa.googleapis.com
 lh3.googleusercontent.com/
 signaler-pa.googleapis.com
 
-cdn.dibspayment.com/
+cdn.dibspayment.com
 *.spotify.com
 *.spotifycdn.com
-www.dropboxstatic.com/
+www.dropboxstatic.com
+content.dropboxapi.com
 jastrack.jas.com #test 3/1-2024 Seaborn
 www.expedia.com #Problemer med hotels.com
 
