@@ -97,7 +97,7 @@ bid.essrtb.com
 s2s.singular.net
 app.trumf.no
 token.safebrowsing.apple
-
+ruter.no
 
 
 
