@@ -96,7 +96,7 @@ dc.schibsted.io
 bid.essrtb.com
 s2s.singular.net
 app.trumf.no
-
+token.safebrowsing.apple
 
 
 
