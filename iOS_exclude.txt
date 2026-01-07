@@ -98,8 +98,9 @@ s2s.singular.net
 app.trumf.no
 token.safebrowsing.apple
 ruter.no
-
-
+api.posten.no
+api2.postnord.com
+id.posten.no
 
 #play.googleapis.com/
 #safebrowsing.googleapis.com/
