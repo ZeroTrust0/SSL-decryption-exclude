@@ -16,3 +16,5 @@ gp.tomb.no
 51.120.126.85 #Heidenreich
 000710031311 #Heidenreich
 uvo1tge0sexqsaeqta6.vm.cld.sr #Palo IoT UTD
+193.214.75.134
+193.214.155.38
