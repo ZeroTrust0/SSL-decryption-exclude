@@ -98,7 +98,7 @@ api2.flysas.com
 #imgcy.trivago.com
 #www.trivago.no
 *.cardinalcommerce.com #SAS betaling
-
+*.adyen.com #Strawberry betaling
 
 ####
 #*.apple.com/
