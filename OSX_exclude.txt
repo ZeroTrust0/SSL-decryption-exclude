@@ -101,6 +101,7 @@ api2.flysas.com
 *.adyen.com #Strawberry betaling
 autoupdate.opera.com
 desktop-netinstaller-sub.osp.opera.software
+desktop-netinstaller-sub.osp.op
 api.apple-cloudkit.com
 docs.google.com
 learn-attachment.microsoft.com
