@@ -102,6 +102,7 @@ api2.flysas.com
 autoupdate.opera.com
 desktop-netinstaller-sub.osp.opera.software
 desktop-netinstaller-sub.osp.op
+api.config.opr.gg
 api.apple-cloudkit.com
 docs.google.com
 learn-attachment.microsoft.com
