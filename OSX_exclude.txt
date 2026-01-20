@@ -104,6 +104,10 @@ desktop-netinstaller-sub.osp.opera.software
 api.apple-cloudkit.com
 docs.google.com
 learn-attachment.microsoft.com
+fonts.googleapis.com
+fonts.gstatic.com
+encrypted-tbn3.gstatic.com
+device.arubanetworks.com
 
 ####
 #*.apple.com/
