@@ -110,6 +110,7 @@ fonts.googleapis.com
 fonts.gstatic.com
 encrypted-tbn3.gstatic.com
 device.arubanetworks.com
+180.no
 
 ####
 #*.apple.com/
