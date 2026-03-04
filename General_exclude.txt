@@ -3,7 +3,8 @@
 api.dropboxapi.com/
 *.sonos.com/
 sonos.com/
-*.signal.org/
+*.signal.org
+storage.signal.org
 login.microsoftonline.com
 teams.live.com/
 *.icloud-content.com
