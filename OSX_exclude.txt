@@ -20,6 +20,7 @@ content.dropboxapi.com
 jastrack.jas.com #test 3/1-2024 Seaborn
 www.expedia.com #Problemer med hotels.com
 www.ssllabs.com
+ssllabs.com
 
 #Teams
 teams.events.data.microsoft.com/  #Teams
