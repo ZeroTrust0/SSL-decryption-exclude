@@ -53,6 +53,7 @@ saasedl.paloaltonetworks.com
 *.sentry.io      #ChatGPT
 *.chatgpt.com    #ChatGPT
 chatgpt.com    #ChatGPT
+claude.ai
 trumfnetthandel.no
 m.americanexpress.com
 w.usabilla.com
