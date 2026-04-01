@@ -11,6 +11,7 @@ fcmtoken.googleapis.com/
 appsitemsuggest-pa.googleapis.com
 lh3.googleusercontent.com/
 signaler-pa.googleapis.com
+storage.googleapis.com
 
 cdn.dibspayment.com
 *.spotify.com
