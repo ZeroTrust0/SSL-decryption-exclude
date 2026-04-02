@@ -57,6 +57,7 @@ chatgpt.com    #ChatGPT
 claude.ai
 platform.claude.com
 *.anthropic.com
+bridge.claudeusercontent.com
 trumfnetthandel.no
 m.americanexpress.com
 w.usabilla.com
