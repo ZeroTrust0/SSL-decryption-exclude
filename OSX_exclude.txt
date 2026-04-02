@@ -58,6 +58,8 @@ claude.ai
 platform.claude.com
 *.anthropic.com
 bridge.claudeusercontent.com
+sdk.split.io
+dns.quad9.net
 trumfnetthandel.no
 m.americanexpress.com
 w.usabilla.com
